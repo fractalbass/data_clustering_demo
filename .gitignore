@@ -1,4 +1,4 @@
-" Standard .gitignore for pycharm and idea relate IDEs.
+# Standard .gitignore for pycharm and idea relate IDEs.
 
 # User-specific stuff:
 .idea/**/workspace.xml
