@@ -1,0 +1,49 @@
+{
+	"viewErrors": [],
+	"dataEvents": [{
+		"mode": 1,
+		"date": "2017-06-20T08:35:00",
+		"eventId": "2017-00042823",
+		"providerId": 1506,
+		"latitude": 39.087646484375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4664535522461
+	}, {
+		"mode": 1,
+		"date": "2017-06-20T01:14:00",
+		"eventId": "2017-00042623",
+		"providerId": 1506,
+		"latitude": 39.10447311401367,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4247055053711
+	}, {
+		"mode": 1,
+		"date": "2017-06-19T08:56:00",
+		"eventId": "2017-00063041",
+		"providerId": 3192,
+		"latitude": 39.11735916137695,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6497573852539
+	}]
+}
