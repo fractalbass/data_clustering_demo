@@ -1,0 +1,7644 @@
+{
+	"viewErrors": [],
+	"dataEvents": [{
+		"mode": 1,
+		"date": "2017-06-20T08:35:00",
+		"eventId": "2017-00042823",
+		"providerId": 1506,
+		"latitude": 39.087646484375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4664535522461
+	}, {
+		"mode": 1,
+		"date": "2017-06-20T01:14:00",
+		"eventId": "2017-00042623",
+		"providerId": 1506,
+		"latitude": 39.10447311401367,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4247055053711
+	}, {
+		"mode": 1,
+		"date": "2017-06-19T08:56:00",
+		"eventId": "2017-00063041",
+		"providerId": 3192,
+		"latitude": 39.11735916137695,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6497573852539
+	}, {
+		"mode": 1,
+		"date": "2017-06-19T12:01:00",
+		"eventId": "2017-00062719",
+		"providerId": 3192,
+		"latitude": 39.11598587036133,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62712097167969
+	}, {
+		"mode": 1,
+		"date": "2017-06-18T02:44:00",
+		"eventId": "2017-00042207",
+		"providerId": 1506,
+		"latitude": 39.07556915283203,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.39824676513672
+	}, {
+		"mode": 1,
+		"date": "2017-06-18T08:45:00",
+		"eventId": "2017-00062439",
+		"providerId": 3192,
+		"latitude": 39.126495361328125,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65478515625
+	}, {
+		"mode": 1,
+		"date": "2017-06-18T02:42:00",
+		"eventId": "2017-00042133",
+		"providerId": 1506,
+		"latitude": 39.07030487060547,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.38016510009766
+	}, {
+		"mode": 1,
+		"date": "2017-06-18T01:07:00",
+		"eventId": "201720462",
+		"providerId": 504,
+		"latitude": 38.96868896484375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.73944854736328
+	}, {
+		"mode": 1,
+		"date": "2017-06-18T12:09:00",
+		"eventId": "2017-00062336",
+		"providerId": 3192,
+		"latitude": 39.128231048583984,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6529312133789
+	}, {
+		"mode": 1,
+		"date": "2017-06-17T10:20:00",
+		"eventId": "2017-00062303",
+		"providerId": 3192,
+		"latitude": 39.12321472167969,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65618896484375
+	}, {
+		"mode": 1,
+		"date": "2017-06-17T05:05:00",
+		"eventId": "2017-00062184",
+		"providerId": 3192,
+		"latitude": 39.09885787963867,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63848876953125
+	}, {
+		"mode": 1,
+		"date": "2017-06-17T02:15:00",
+		"eventId": "CN1702661",
+		"providerId": 61,
+		"latitude": 39.003292083740234,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.72127532958984
+	}, {
+		"mode": 1,
+		"date": "2017-06-17T03:09:00",
+		"eventId": "2017-00041860",
+		"providerId": 1506,
+		"latitude": 39.08536911010742,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.44164276123047
+	}, {
+		"mode": 1,
+		"date": "2017-06-17T12:02:00",
+		"eventId": "2017-00061922",
+		"providerId": 3192,
+		"latitude": 39.075897216796875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.68211364746094
+	}, {
+		"mode": 1,
+		"date": "2017-06-16T09:45:00",
+		"eventId": "2017-00061884",
+		"providerId": 3192,
+		"latitude": 39.11827850341797,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62528228759766
+	}, {
+		"mode": 1,
+		"date": "2017-06-16T05:27:00",
+		"eventId": "2017-00041700",
+		"providerId": 1506,
+		"latitude": 39.118160247802734,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.3609390258789
+	}, {
+		"mode": 1,
+		"date": "2017-06-16T04:00:00",
+		"eventId": "2017-00061595",
+		"providerId": 3192,
+		"latitude": 39.0583381652832,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63036346435547
+	}, {
+		"mode": 1,
+		"date": "2017-06-15T11:20:00",
+		"eventId": "2017-00061521",
+		"providerId": 3192,
+		"latitude": 39.11874771118164,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6378402709961
+	}, {
+		"mode": 1,
+		"date": "2017-06-15T10:00:00",
+		"eventId": "2017-00061600",
+		"providerId": 3192,
+		"latitude": 39.11827850341797,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62528228759766
+	}, {
+		"mode": 1,
+		"date": "2017-06-15T05:52:00",
+		"eventId": "2017-00041412",
+		"providerId": 1506,
+		"latitude": 39.124061584472656,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.35961151123047
+	}, {
+		"mode": 1,
+		"date": "2017-06-15T03:08:00",
+		"eventId": "2017-00041242",
+		"providerId": 1506,
+		"latitude": 39.07461166381836,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42290496826172
+	}, {
+		"mode": 1,
+		"date": "2017-06-14T11:11:00",
+		"eventId": "17-2018PD",
+		"providerId": 90,
+		"latitude": 38.96834182739258,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.48892974853516
+	}, {
+		"mode": 1,
+		"date": "2017-06-13T02:30:00",
+		"eventId": "2017-00060440",
+		"providerId": 3192,
+		"latitude": 39.04525375366211,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.73274230957031
+	}, {
+		"mode": 1,
+		"date": "2017-06-12T08:30:00",
+		"eventId": "2017-00040402",
+		"providerId": 1506,
+		"latitude": 39.07883834838867,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41645812988281
+	}, {
+		"mode": 1,
+		"date": "2017-06-11T11:00:00",
+		"eventId": "2017-00059884",
+		"providerId": 3192,
+		"latitude": 39.11094665527344,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7203369140625
+	}, {
+		"mode": 1,
+		"date": "2017-06-11T09:59:00",
+		"eventId": "2017-00059688",
+		"providerId": 3192,
+		"latitude": 39.10663604736328,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6342544555664
+	}, {
+		"mode": 1,
+		"date": "2017-06-11T09:15:00",
+		"eventId": "2017-00059680",
+		"providerId": 3192,
+		"latitude": 39.087425231933594,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6258316040039
+	}, {
+		"mode": 1,
+		"date": "2017-06-11T02:30:00",
+		"eventId": "2017-00059579",
+		"providerId": 3192,
+		"latitude": 39.10121154785156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6323013305664
+	}, {
+		"mode": 1,
+		"date": "2017-06-11T06:50:00",
+		"eventId": "2017-00059498",
+		"providerId": 3192,
+		"latitude": 39.087215423583984,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63715362548828
+	}, {
+		"mode": 1,
+		"date": "2017-06-10T10:55:00",
+		"eventId": "2017-00059381",
+		"providerId": 3192,
+		"latitude": 39.12833786010742,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.76532745361328
+	}, {
+		"mode": 1,
+		"date": "2017-06-10T07:50:00",
+		"eventId": "2017-00059325",
+		"providerId": 3192,
+		"latitude": 39.04521560668945,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6368637084961
+	}, {
+		"mode": 1,
+		"date": "2017-06-10T02:03:00",
+		"eventId": "2017-00039989",
+		"providerId": 1506,
+		"latitude": 39.048160552978516,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.36407470703125
+	}, {
+		"mode": 1,
+		"date": "2017-06-10T10:30:00",
+		"eventId": "2017-00059191",
+		"providerId": 3192,
+		"latitude": 39.10028076171875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64044189453125
+	}, {
+		"mode": 1,
+		"date": "2017-06-10T04:26:00",
+		"eventId": "2017-00059117",
+		"providerId": 3192,
+		"latitude": 39.134735107421875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64078521728516
+	}, {
+		"mode": 1,
+		"date": "2017-06-09T11:21:00",
+		"eventId": "201719501",
+		"providerId": 504,
+		"latitude": 38.9417724609375,
+		"accuracy": "Street",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.76126098632812
+	}, {
+		"mode": 1,
+		"date": "2017-06-09T10:29:00",
+		"eventId": "2017-00039838",
+		"providerId": 1506,
+		"latitude": 39.08562088012695,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43110656738281
+	}, {
+		"mode": 1,
+		"date": "2017-06-09T04:10:00",
+		"eventId": "2017-00058901",
+		"providerId": 3192,
+		"latitude": 39.11800003051758,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62916564941406
+	}, {
+		"mode": 1,
+		"date": "2017-06-09T04:00:00",
+		"eventId": "CN1702566",
+		"providerId": 61,
+		"latitude": 39.00742721557617,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.73822021484375
+	}, {
+		"mode": 1,
+		"date": "2017-06-09T05:45:00",
+		"eventId": "201719388",
+		"providerId": 504,
+		"latitude": 38.967567443847656,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.85702514648438
+	}, {
+		"mode": 1,
+		"date": "2017-06-08T02:50:00",
+		"eventId": "2017-00058460",
+		"providerId": 3192,
+		"latitude": 39.116722106933594,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7430648803711
+	}, {
+		"mode": 1,
+		"date": "2017-06-08T02:00:00",
+		"eventId": "2017-00058442",
+		"providerId": 3192,
+		"latitude": 39.08118438720703,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64374542236328
+	}, {
+		"mode": 1,
+		"date": "2017-06-08T01:00:00",
+		"eventId": "2017-00039274",
+		"providerId": 1506,
+		"latitude": 39.04420471191406,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41584777832031
+	}, {
+		"mode": 1,
+		"date": "2017-06-07T06:00:00",
+		"eventId": "2017-00058110",
+		"providerId": 3192,
+		"latitude": 39.12025833129883,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.76319122314453
+	}, {
+		"mode": 1,
+		"date": "2017-06-07T03:30:00",
+		"eventId": "2017-00057868",
+		"providerId": 3192,
+		"latitude": 39.14134979248047,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64537048339844
+	}, {
+		"mode": 1,
+		"date": "2017-06-07T02:27:00",
+		"eventId": "2017-00038990",
+		"providerId": 1506,
+		"latitude": 39.05607986450195,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.46381378173828
+	}, {
+		"mode": 1,
+		"date": "2017-06-06T10:34:00",
+		"eventId": "2017-00057787",
+		"providerId": 3192,
+		"latitude": 39.054744720458984,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62916564941406
+	}, {
+		"mode": 1,
+		"date": "2017-06-06T09:00:00",
+		"eventId": "CN1702527",
+		"providerId": 61,
+		"latitude": 39.0115966796875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.77294921875
+	}, {
+		"mode": 1,
+		"date": "2017-06-06T08:00:00",
+		"eventId": "2017-00039084",
+		"providerId": 1506,
+		"latitude": 39.09500503540039,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4319839477539
+	}, {
+		"mode": 1,
+		"date": "2017-06-06T07:15:00",
+		"eventId": "1700940",
+		"providerId": 1725,
+		"latitude": 39.17132568359375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.48347473144531
+	}, {
+		"mode": 1,
+		"date": "2017-06-06T11:59:00",
+		"eventId": "2017-00038816",
+		"providerId": 1506,
+		"latitude": 39.033634185791016,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43306732177734
+	}, {
+		"mode": 1,
+		"date": "2017-06-06T07:00:00",
+		"eventId": "2017-00057430",
+		"providerId": 3192,
+		"latitude": 39.123619079589844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6642837524414
+	}, {
+		"mode": 1,
+		"date": "2017-06-05T10:59:00",
+		"eventId": "2017-00057355",
+		"providerId": 3192,
+		"latitude": 39.08608627319336,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63368225097656
+	}, {
+		"mode": 1,
+		"date": "2017-06-05T06:50:00",
+		"eventId": "2017-00057315",
+		"providerId": 3192,
+		"latitude": 39.125328063964844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71127319335938
+	}, {
+		"mode": 1,
+		"date": "2017-06-05T04:13:00",
+		"eventId": "2017-00057251",
+		"providerId": 3192,
+		"latitude": 39.074161529541016,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62415313720703
+	}, {
+		"mode": 1,
+		"date": "2017-06-05T02:00:00",
+		"eventId": "2017-00057069",
+		"providerId": 3192,
+		"latitude": 39.129615783691406,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6158447265625
+	}, {
+		"mode": 1,
+		"date": "2017-06-04T02:20:00",
+		"eventId": "2017-00056875",
+		"providerId": 3192,
+		"latitude": 39.08613586425781,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7483901977539
+	}, {
+		"mode": 1,
+		"date": "2017-06-04T12:30:00",
+		"eventId": "2017-00056727",
+		"providerId": 3192,
+		"latitude": 39.125328063964844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71127319335938
+	}, {
+		"mode": 1,
+		"date": "2017-06-04T12:30:00",
+		"eventId": "2017-00056715",
+		"providerId": 3192,
+		"latitude": 39.125328063964844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71127319335938
+	}, {
+		"mode": 1,
+		"date": "2017-06-04T12:06:00",
+		"eventId": "2017-00056698",
+		"providerId": 3192,
+		"latitude": 39.12490463256836,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.70970916748047
+	}, {
+		"mode": 1,
+		"date": "2017-06-04T12:01:00",
+		"eventId": "2017-00056762",
+		"providerId": 3192,
+		"latitude": 39.125328063964844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71127319335938
+	}, {
+		"mode": 1,
+		"date": "2017-06-03T11:50:00",
+		"eventId": "2017-00038166",
+		"providerId": 1506,
+		"latitude": 39.0784912109375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41315460205078
+	}, {
+		"mode": 1,
+		"date": "2017-06-03T10:32:00",
+		"eventId": "CN1702459",
+		"providerId": 61,
+		"latitude": 39.01727294921875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.73652648925781
+	}, {
+		"mode": 1,
+		"date": "2017-06-03T06:28:00",
+		"eventId": "2017-00038079",
+		"providerId": 1506,
+		"latitude": 39.110958099365234,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.39302062988281
+	}, {
+		"mode": 1,
+		"date": "2017-06-03T05:45:00",
+		"eventId": "2017-00056590",
+		"providerId": 3192,
+		"latitude": 39.12554931640625,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6474609375
+	}, {
+		"mode": 1,
+		"date": "2017-06-03T04:42:00",
+		"eventId": "2017-00038067",
+		"providerId": 1506,
+		"latitude": 39.10717010498047,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.38130950927734
+	}, {
+		"mode": 1,
+		"date": "2017-06-03T03:00:00",
+		"eventId": "2017-00038078",
+		"providerId": 1506,
+		"latitude": 39.11547088623047,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.38273620605469
+	}, {
+		"mode": 1,
+		"date": "2017-06-03T09:00:00",
+		"eventId": "2017-00057164",
+		"providerId": 3192,
+		"latitude": 39.13483810424805,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6749496459961
+	}, {
+		"mode": 1,
+		"date": "2017-06-03T01:50:00",
+		"eventId": "2017-00056322",
+		"providerId": 3192,
+		"latitude": 39.10274124145508,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.61736297607422
+	}, {
+		"mode": 1,
+		"date": "2017-06-03T12:01:00",
+		"eventId": "2017-00057234",
+		"providerId": 3192,
+		"latitude": 39.12437438964844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71221160888672
+	}, {
+		"mode": 1,
+		"date": "2017-06-02T03:14:00",
+		"eventId": "2017-00037795",
+		"providerId": 1506,
+		"latitude": 39.094635009765625,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45355224609375
+	}, {
+		"mode": 1,
+		"date": "2017-06-02T02:30:00",
+		"eventId": "2017-00056029",
+		"providerId": 3192,
+		"latitude": 39.123779296875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.66718292236328
+	}, {
+		"mode": 1,
+		"date": "2017-06-02T02:30:00",
+		"eventId": "2017-00056031",
+		"providerId": 3192,
+		"latitude": 39.08818054199219,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6351089477539
+	}, {
+		"mode": 1,
+		"date": "2017-06-02T09:17:00",
+		"eventId": "2017-00037665",
+		"providerId": 1506,
+		"latitude": 39.10322570800781,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42484283447266
+	}, {
+		"mode": 1,
+		"date": "2017-06-01T10:06:00",
+		"eventId": "201718565",
+		"providerId": 504,
+		"latitude": 38.989967346191406,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7278060913086
+	}, {
+		"mode": 1,
+		"date": "2017-06-01T10:05:00",
+		"eventId": "2017-00037561",
+		"providerId": 1506,
+		"latitude": 39.09334945678711,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.44288635253906
+	}, {
+		"mode": 1,
+		"date": "2017-06-01T12:45:00",
+		"eventId": "2017-00055251",
+		"providerId": 3192,
+		"latitude": 39.105159759521484,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7420654296875
+	}, {
+		"mode": 1,
+		"date": "2017-06-01T12:05:00",
+		"eventId": "2017-00055368",
+		"providerId": 3192,
+		"latitude": 39.134796142578125,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63690185546875
+	}, {
+		"mode": 1,
+		"date": "2017-05-31T08:37:00",
+		"eventId": "2017-00055169",
+		"providerId": 3192,
+		"latitude": 39.11458206176758,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63511657714844
+	}, {
+		"mode": 1,
+		"date": "2017-05-31T03:17:00",
+		"eventId": "2017-00055058",
+		"providerId": 3192,
+		"latitude": 39.1185417175293,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6240463256836
+	}, {
+		"mode": 1,
+		"date": "2017-05-31T02:20:00",
+		"eventId": "2017-00055038",
+		"providerId": 3192,
+		"latitude": 39.09197235107422,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63516998291016
+	}, {
+		"mode": 1,
+		"date": "2017-05-31T12:25:00",
+		"eventId": "CN1702384",
+		"providerId": 61,
+		"latitude": 39.01456832885742,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7121810913086
+	}, {
+		"mode": 1,
+		"date": "2017-05-30T11:05:00",
+		"eventId": "2017-00054791",
+		"providerId": 3192,
+		"latitude": 39.10574722290039,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6579818725586
+	}, {
+		"mode": 1,
+		"date": "2017-05-30T10:19:00",
+		"eventId": "2017-00037001",
+		"providerId": 1506,
+		"latitude": 39.04896545410156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.44829559326172
+	}, {
+		"mode": 1,
+		"date": "2017-05-30T07:29:00",
+		"eventId": "2017-00054721",
+		"providerId": 3192,
+		"latitude": 39.09054946899414,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.73231506347656
+	}, {
+		"mode": 1,
+		"date": "2017-05-30T12:50:00",
+		"eventId": "2017-00054590",
+		"providerId": 3192,
+		"latitude": 39.107765197753906,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64967346191406
+	}, {
+		"mode": 1,
+		"date": "2017-05-29T11:22:00",
+		"eventId": "2017-00054796",
+		"providerId": 3192,
+		"latitude": 39.10572052001953,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65729522705078
+	}, {
+		"mode": 1,
+		"date": "2017-05-29T11:12:00",
+		"eventId": "201718194",
+		"providerId": 504,
+		"latitude": 38.9681282043457,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.75779724121094
+	}, {
+		"mode": 1,
+		"date": "2017-05-29T06:30:00",
+		"eventId": "2017-00054268",
+		"providerId": 3192,
+		"latitude": 39.12851333618164,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.70983123779297
+	}, {
+		"mode": 1,
+		"date": "2017-05-29T12:00:00",
+		"eventId": "2017-00036629",
+		"providerId": 1506,
+		"latitude": 39.0836067199707,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41934204101562
+	}, {
+		"mode": 1,
+		"date": "2017-05-29T03:58:00",
+		"eventId": "2017-00054074",
+		"providerId": 3192,
+		"latitude": 39.130130767822266,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63356018066406
+	}, {
+		"mode": 1,
+		"date": "2017-05-29T01:30:00",
+		"eventId": "2017-00036493",
+		"providerId": 1506,
+		"latitude": 39.10466384887695,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42469787597656
+	}, {
+		"mode": 1,
+		"date": "2017-05-28T05:00:00",
+		"eventId": "2017-00054674",
+		"providerId": 3192,
+		"latitude": 39.1008186340332,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63543701171875
+	}, {
+		"mode": 1,
+		"date": "2017-05-27T08:07:00",
+		"eventId": "2017-00053573",
+		"providerId": 3192,
+		"latitude": 39.05587387084961,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7022933959961
+	}, {
+		"mode": 1,
+		"date": "2017-05-27T10:30:00",
+		"eventId": "2017-00053411",
+		"providerId": 3192,
+		"latitude": 39.14408874511719,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63910675048828
+	}, {
+		"mode": 1,
+		"date": "2017-05-26T11:45:00",
+		"eventId": "2017-00053286",
+		"providerId": 3192,
+		"latitude": 39.095245361328125,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7326431274414
+	}, {
+		"mode": 1,
+		"date": "2017-05-26T09:55:00",
+		"eventId": "2017-00052948",
+		"providerId": 3192,
+		"latitude": 39.141563415527344,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6890640258789
+	}, {
+		"mode": 1,
+		"date": "2017-05-25T08:29:00",
+		"eventId": "2017-00035655",
+		"providerId": 1506,
+		"latitude": 39.09846115112305,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43663024902344
+	}, {
+		"mode": 1,
+		"date": "2017-05-25T07:31:00",
+		"eventId": "2017-00035633",
+		"providerId": 1506,
+		"latitude": 39.042720794677734,
+		"accuracy": "Intersection",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.34089660644531
+	}, {
+		"mode": 1,
+		"date": "2017-05-25T05:40:00",
+		"eventId": "2017-00035600",
+		"providerId": 1506,
+		"latitude": 39.09064483642578,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.33161926269531
+	}, {
+		"mode": 1,
+		"date": "2017-05-25T10:30:00",
+		"eventId": "2017-00052565",
+		"providerId": 3192,
+		"latitude": 39.125328063964844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71127319335938
+	}, {
+		"mode": 1,
+		"date": "2017-05-25T07:00:00",
+		"eventId": "2017-00054628",
+		"providerId": 3192,
+		"latitude": 39.11874771118164,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6378402709961
+	}, {
+		"mode": 1,
+		"date": "2017-05-24T11:00:00",
+		"eventId": "CN1702302",
+		"providerId": 61,
+		"latitude": 39.003265380859375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71588134765625
+	}, {
+		"mode": 1,
+		"date": "2017-05-24T10:45:00",
+		"eventId": "2017-00052349",
+		"providerId": 3192,
+		"latitude": 39.14356994628906,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.66519165039062
+	}, {
+		"mode": 1,
+		"date": "2017-05-24T01:10:00",
+		"eventId": "2017-00052121",
+		"providerId": 3192,
+		"latitude": 39.12383270263672,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65000915527344
+	}, {
+		"mode": 1,
+		"date": "2017-05-24T12:00:00",
+		"eventId": "CN1702481",
+		"providerId": 61,
+		"latitude": 39.00648498535156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7319564819336
+	}, {
+		"mode": 1,
+		"date": "2017-05-23T06:28:00",
+		"eventId": "2017-00035022",
+		"providerId": 1506,
+		"latitude": 39.06006622314453,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.44730377197266
+	}, {
+		"mode": 1,
+		"date": "2017-05-23T05:20:00",
+		"eventId": "2017-00035014",
+		"providerId": 1506,
+		"latitude": 39.085506439208984,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41362762451172
+	}, {
+		"mode": 1,
+		"date": "2017-05-23T02:30:00",
+		"eventId": "2017-00034897",
+		"providerId": 1506,
+		"latitude": 39.0523567199707,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.35631561279297
+	}, {
+		"mode": 1,
+		"date": "2017-05-22T04:05:00",
+		"eventId": "2017-00034674",
+		"providerId": 1506,
+		"latitude": 39.07832717895508,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42289733886719
+	}, {
+		"mode": 1,
+		"date": "2017-05-22T01:00:00",
+		"eventId": "CN1702233",
+		"providerId": 61,
+		"latitude": 39.015525817871094,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.70587158203125
+	}, {
+		"mode": 1,
+		"date": "2017-05-21T06:15:00",
+		"eventId": "2017-00034563",
+		"providerId": 1506,
+		"latitude": 39.05007553100586,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4150161743164
+	}, {
+		"mode": 1,
+		"date": "2017-05-21T11:10:00",
+		"eventId": "2017-00034465",
+		"providerId": 1506,
+		"latitude": 39.10942459106445,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45904541015625
+	}, {
+		"mode": 1,
+		"date": "2017-05-20T11:50:00",
+		"eventId": "2017-00034378",
+		"providerId": 1506,
+		"latitude": 39.10990905761719,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.37537384033203
+	}, {
+		"mode": 1,
+		"date": "2017-05-20T07:30:00",
+		"eventId": "2017-00034313",
+		"providerId": 1506,
+		"latitude": 39.09256362915039,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4319076538086
+	}, {
+		"mode": 1,
+		"date": "2017-05-20T01:15:00",
+		"eventId": "CN1702213",
+		"providerId": 61,
+		"latitude": 39.00624084472656,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.76115417480469
+	}, {
+		"mode": 1,
+		"date": "2017-05-19T04:00:00",
+		"eventId": "CN1702201",
+		"providerId": 61,
+		"latitude": 39.01616287231445,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.72550201416016
+	}, {
+		"mode": 1,
+		"date": "2017-05-18T07:33:00",
+		"eventId": "2017-00033803",
+		"providerId": 1506,
+		"latitude": 39.09822463989258,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41139221191406
+	}, {
+		"mode": 1,
+		"date": "2017-05-18T02:20:00",
+		"eventId": "CN1702163",
+		"providerId": 61,
+		"latitude": 39.00613021850586,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.78287506103516
+	}, {
+		"mode": 1,
+		"date": "2017-05-17T08:20:00",
+		"eventId": "CN1702159",
+		"providerId": 61,
+		"latitude": 39.0272102355957,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.73066711425781
+	}, {
+		"mode": 1,
+		"date": "2017-05-16T05:52:00",
+		"eventId": "2017-00033220",
+		"providerId": 1506,
+		"latitude": 39.05094528198242,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.3560791015625
+	}, {
+		"mode": 1,
+		"date": "2017-05-16T10:30:00",
+		"eventId": "CN1702129",
+		"providerId": 61,
+		"latitude": 39.03734588623047,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.72024536132812
+	}, {
+		"mode": 1,
+		"date": "2017-05-15T05:00:00",
+		"eventId": "2017-00033391",
+		"providerId": 1506,
+		"latitude": 39.10755157470703,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.3626937866211
+	}, {
+		"mode": 1,
+		"date": "2017-05-13T09:38:00",
+		"eventId": "201716306",
+		"providerId": 504,
+		"latitude": 38.98707580566406,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.72260284423828
+	}, {
+		"mode": 1,
+		"date": "2017-05-13T08:17:00",
+		"eventId": "2017-00032493",
+		"providerId": 1506,
+		"latitude": 39.093955993652344,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4269027709961
+	}, {
+		"mode": 1,
+		"date": "2017-05-11T09:59:00",
+		"eventId": "2017-00031970",
+		"providerId": 1506,
+		"latitude": 39.04483413696289,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.40599822998047
+	}, {
+		"mode": 1,
+		"date": "2017-05-11T08:30:00",
+		"eventId": "CN1702116",
+		"providerId": 61,
+		"latitude": 39.024131774902344,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71307373046875
+	}, {
+		"mode": 1,
+		"date": "2017-05-11T11:08:00",
+		"eventId": "2017-00031826",
+		"providerId": 1506,
+		"latitude": 39.07845687866211,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45093536376953
+	}, {
+		"mode": 1,
+		"date": "2017-05-10T09:25:00",
+		"eventId": "17-1573PD",
+		"providerId": 90,
+		"latitude": 38.973472595214844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.49069213867188
+	}, {
+		"mode": 1,
+		"date": "2017-05-09T08:01:00",
+		"eventId": "2017-00031384",
+		"providerId": 1506,
+		"latitude": 39.059532165527344,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4147720336914
+	}, {
+		"mode": 1,
+		"date": "2017-05-09T12:29:00",
+		"eventId": "2017-00031266",
+		"providerId": 1506,
+		"latitude": 39.073978424072266,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.37973022460938
+	}, {
+		"mode": 1,
+		"date": "2017-05-08T09:34:00",
+		"eventId": "2017-00031118",
+		"providerId": 1506,
+		"latitude": 39.094940185546875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42774963378906
+	}, {
+		"mode": 1,
+		"date": "2017-05-08T03:00:00",
+		"eventId": "2017-00031027",
+		"providerId": 1506,
+		"latitude": 39.097904205322266,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42909240722656
+	}, {
+		"mode": 1,
+		"date": "2017-05-08T08:00:00",
+		"eventId": "CN1702004",
+		"providerId": 61,
+		"latitude": 39.02165222167969,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.83946228027344
+	}, {
+		"mode": 1,
+		"date": "2017-05-08T03:00:00",
+		"eventId": "2017-00031316",
+		"providerId": 1506,
+		"latitude": 39.09218978881836,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45771789550781
+	}, {
+		"mode": 1,
+		"date": "2017-05-07T07:05:00",
+		"eventId": "2017-00030783",
+		"providerId": 1506,
+		"latitude": 39.081512451171875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.40962219238281
+	}, {
+		"mode": 1,
+		"date": "2017-05-07T12:00:00",
+		"eventId": "2017-00031437",
+		"providerId": 1506,
+		"latitude": 39.07412338256836,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41278076171875
+	}, {
+		"mode": 1,
+		"date": "2017-05-06T11:00:00",
+		"eventId": "2017-00030710",
+		"providerId": 1506,
+		"latitude": 39.06010818481445,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.47161102294922
+	}, {
+		"mode": 1,
+		"date": "2017-05-05T10:15:00",
+		"eventId": "2017-00030345",
+		"providerId": 1506,
+		"latitude": 39.092308044433594,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.34532928466797
+	}, {
+		"mode": 1,
+		"date": "2017-05-05T08:59:00",
+		"eventId": "2017-00030285",
+		"providerId": 1506,
+		"latitude": 39.07955551147461,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.40591430664062
+	}, {
+		"mode": 1,
+		"date": "2017-05-05T04:39:00",
+		"eventId": "2017-00030218",
+		"providerId": 1506,
+		"latitude": 39.1213264465332,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.34102630615234
+	}, {
+		"mode": 1,
+		"date": "2017-05-05T03:14:00",
+		"eventId": "2017-00030198",
+		"providerId": 1506,
+		"latitude": 39.095455169677734,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.40928649902344
+	}, {
+		"mode": 1,
+		"date": "2017-05-05T07:29:00",
+		"eventId": "2017-03451",
+		"providerId": 3067,
+		"latitude": 39.011810302734375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.30845642089844
+	}, {
+		"mode": 1,
+		"date": "2017-05-04T08:55:00",
+		"eventId": "2017-00029991",
+		"providerId": 1506,
+		"latitude": 39.10083770751953,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41240692138672
+	}, {
+		"mode": 1,
+		"date": "2017-05-03T08:38:00",
+		"eventId": "2017-00029693",
+		"providerId": 1506,
+		"latitude": 39.10089111328125,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.46269989013672
+	}, {
+		"mode": 1,
+		"date": "2017-05-03T06:52:00",
+		"eventId": "2017-00029675",
+		"providerId": 1506,
+		"latitude": 39.036277770996094,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42532348632812
+	}, {
+		"mode": 1,
+		"date": "2017-05-03T05:00:00",
+		"eventId": "CN1701932",
+		"providerId": 61,
+		"latitude": 38.99252700805664,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.70564270019531
+	}, {
+		"mode": 1,
+		"date": "2017-05-03T01:20:00",
+		"eventId": "2017-00029519",
+		"providerId": 1506,
+		"latitude": 39.0972785949707,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45831298828125
+	}, {
+		"mode": 1,
+		"date": "2017-05-03T12:00:00",
+		"eventId": "2017-00029511",
+		"providerId": 1506,
+		"latitude": 39.094207763671875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.44506072998047
+	}, {
+		"mode": 1,
+		"date": "2017-05-02T11:20:00",
+		"eventId": "2017-00029499",
+		"providerId": 1506,
+		"latitude": 39.08314514160156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.40534210205078
+	}, {
+		"mode": 1,
+		"date": "2017-05-01T08:22:00",
+		"eventId": "17-1445PD",
+		"providerId": 90,
+		"latitude": 38.989158630371094,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.46290588378906
+	}, {
+		"mode": 1,
+		"date": "2017-05-01T07:51:00",
+		"eventId": "2017-00029193",
+		"providerId": 1506,
+		"latitude": 39.083744049072266,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4354019165039
+	}, {
+		"mode": 1,
+		"date": "2017-04-29T03:40:00",
+		"eventId": "2017-00028619",
+		"providerId": 1506,
+		"latitude": 39.11449432373047,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.38052368164062
+	}, {
+		"mode": 1,
+		"date": "2017-04-28T06:07:00",
+		"eventId": "2017-00028493",
+		"providerId": 1506,
+		"latitude": 39.10220718383789,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43737030029297
+	}, {
+		"mode": 1,
+		"date": "2017-04-28T05:19:00",
+		"eventId": "2017-00028485",
+		"providerId": 1506,
+		"latitude": 39.0323600769043,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.36270904541016
+	}, {
+		"mode": 1,
+		"date": "2017-04-28T11:40:00",
+		"eventId": "CN1701856",
+		"providerId": 61,
+		"latitude": 38.99409484863281,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71265411376953
+	}, {
+		"mode": 1,
+		"date": "2017-04-26T07:00:00",
+		"eventId": "2017-00028008",
+		"providerId": 1506,
+		"latitude": 39.084842681884766,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45382690429688
+	}, {
+		"mode": 1,
+		"date": "2017-04-26T02:20:00",
+		"eventId": "2017-00027856",
+		"providerId": 1506,
+		"latitude": 39.08322525024414,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45629119873047
+	}, {
+		"mode": 1,
+		"date": "2017-04-25T07:49:00",
+		"eventId": "2017-00027785",
+		"providerId": 1506,
+		"latitude": 39.069984436035156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.46188354492188
+	}, {
+		"mode": 1,
+		"date": "2017-04-25T05:21:26",
+		"eventId": "1-17-003250",
+		"providerId": 89,
+		"latitude": 38.951087951660156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.36898040771484
+	}, {
+		"mode": 1,
+		"date": "2017-04-24T12:00:00",
+		"eventId": "2017-00029859",
+		"providerId": 1506,
+		"latitude": 39.043785095214844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.31317138671875
+	}, {
+		"mode": 1,
+		"date": "2017-04-24T07:21:00",
+		"eventId": "2017-00040612",
+		"providerId": 3192,
+		"latitude": 39.10258102416992,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64913177490234
+	}, {
+		"mode": 1,
+		"date": "2017-04-22T10:54:00",
+		"eventId": "2017-00040209",
+		"providerId": 3192,
+		"latitude": 39.133522033691406,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64910125732422
+	}, {
+		"mode": 1,
+		"date": "2017-04-22T05:01:00",
+		"eventId": "2017-00027050",
+		"providerId": 1506,
+		"latitude": 39.1245231628418,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42042541503906
+	}, {
+		"mode": 1,
+		"date": "2017-04-22T11:22:00",
+		"eventId": "2017-00039987",
+		"providerId": 3192,
+		"latitude": 39.127742767333984,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63189697265625
+	}, {
+		"mode": 1,
+		"date": "2017-04-22T06:00:00",
+		"eventId": "CN1701753",
+		"providerId": 61,
+		"latitude": 39.027992248535156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71809387207031
+	}, {
+		"mode": 1,
+		"date": "2017-04-21T08:51:00",
+		"eventId": "2017-00039816",
+		"providerId": 3192,
+		"latitude": 39.140193939208984,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.659423828125
+	}, {
+		"mode": 1,
+		"date": "2017-04-21T08:50:00",
+		"eventId": "2017-00039826",
+		"providerId": 3192,
+		"latitude": 39.139198303222656,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65887451171875
+	}, {
+		"mode": 1,
+		"date": "2017-04-21T08:45:00",
+		"eventId": "2017-00039827",
+		"providerId": 3192,
+		"latitude": 39.13908386230469,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65887451171875
+	}, {
+		"mode": 1,
+		"date": "2017-04-21T05:50:00",
+		"eventId": "2017-00039769",
+		"providerId": 3192,
+		"latitude": 39.14008331298828,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65805053710938
+	}, {
+		"mode": 1,
+		"date": "2017-04-21T12:30:00",
+		"eventId": "CN1701744",
+		"providerId": 61,
+		"latitude": 39.02025604248047,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7146987915039
+	}, {
+		"mode": 1,
+		"date": "2017-04-21T09:00:00",
+		"eventId": "1700654",
+		"providerId": 1725,
+		"latitude": 39.196861267089844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.59841918945312
+	}, {
+		"mode": 1,
+		"date": "2017-04-20T10:33:00",
+		"eventId": "2017-00026634",
+		"providerId": 1506,
+		"latitude": 39.07199478149414,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.37744903564453
+	}, {
+		"mode": 1,
+		"date": "2017-04-20T07:00:00",
+		"eventId": "2017-00039363",
+		"providerId": 3192,
+		"latitude": 39.13473129272461,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63391876220703
+	}, {
+		"mode": 1,
+		"date": "2017-04-20T05:00:00",
+		"eventId": "2017-00027432",
+		"providerId": 1506,
+		"latitude": 39.096839904785156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43186950683594
+	}, {
+		"mode": 1,
+		"date": "2017-04-20T05:00:00",
+		"eventId": "CN1701742",
+		"providerId": 61,
+		"latitude": 39.02165222167969,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.83946228027344
+	}, {
+		"mode": 1,
+		"date": "2017-04-20T01:00:00",
+		"eventId": "2017-00039190",
+		"providerId": 3192,
+		"latitude": 39.10360336303711,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64221954345703
+	}, {
+		"mode": 1,
+		"date": "2017-04-20T04:20:00",
+		"eventId": "2017-00039080",
+		"providerId": 3192,
+		"latitude": 39.142791748046875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.70552825927734
+	}, {
+		"mode": 1,
+		"date": "2017-04-20T02:12:00",
+		"eventId": "CN1701717",
+		"providerId": 61,
+		"latitude": 38.99330520629883,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7160415649414
+	}, {
+		"mode": 1,
+		"date": "2017-04-19T07:25:00",
+		"eventId": "2017-00038939",
+		"providerId": 3192,
+		"latitude": 39.114707946777344,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.67847442626953
+	}, {
+		"mode": 1,
+		"date": "2017-04-19T03:45:00",
+		"eventId": "2017-00026298",
+		"providerId": 1506,
+		"latitude": 39.09825134277344,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45811462402344
+	}, {
+		"mode": 1,
+		"date": "2017-04-19T12:46:00",
+		"eventId": "2017-00026134",
+		"providerId": 1506,
+		"latitude": 39.082122802734375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.40122985839844
+	}, {
+		"mode": 1,
+		"date": "2017-04-18T08:11:00",
+		"eventId": "2017-00026064",
+		"providerId": 1506,
+		"latitude": 39.029964447021484,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4312515258789
+	}, {
+		"mode": 1,
+		"date": "2017-04-18T04:29:00",
+		"eventId": "2017-00038460",
+		"providerId": 3192,
+		"latitude": 39.07215881347656,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.67343139648438
+	}, {
+		"mode": 1,
+		"date": "2017-04-18T12:33:00",
+		"eventId": "17-1276PD",
+		"providerId": 90,
+		"latitude": 39.020450592041016,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.44422149658203
+	}, {
+		"mode": 1,
+		"date": "2017-04-18T10:58:00",
+		"eventId": "2017-00025956",
+		"providerId": 1506,
+		"latitude": 39.125526428222656,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.36492156982422
+	}, {
+		"mode": 1,
+		"date": "2017-04-18T08:47:00",
+		"eventId": "2017-00038280",
+		"providerId": 3192,
+		"latitude": 39.08008575439453,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.70195770263672
+	}, {
+		"mode": 1,
+		"date": "2017-04-18T06:35:00",
+		"eventId": "2017-00038240",
+		"providerId": 3192,
+		"latitude": 39.06801986694336,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.67547607421875
+	}, {
+		"mode": 1,
+		"date": "2017-04-18T04:12:00",
+		"eventId": "2017-00025915",
+		"providerId": 1506,
+		"latitude": 39.10319900512695,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4666519165039
+	}, {
+		"mode": 1,
+		"date": "2017-04-17T05:30:00",
+		"eventId": "2017-00038570",
+		"providerId": 3192,
+		"latitude": 39.05276870727539,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.619140625
+	}, {
+		"mode": 1,
+		"date": "2017-04-17T03:00:00",
+		"eventId": "2017-00037887",
+		"providerId": 3192,
+		"latitude": 39.10909652709961,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63690185546875
+	}, {
+		"mode": 1,
+		"date": "2017-04-17T02:50:00",
+		"eventId": "2017-00025650",
+		"providerId": 1506,
+		"latitude": 39.03993225097656,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.38672637939453
+	}, {
+		"mode": 1,
+		"date": "2017-04-16T08:30:00",
+		"eventId": "CN1701664",
+		"providerId": 61,
+		"latitude": 39.011592864990234,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.83299255371094
+	}, {
+		"mode": 1,
+		"date": "2017-04-16T07:00:00",
+		"eventId": "2017-00025834",
+		"providerId": 1506,
+		"latitude": 39.11515808105469,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.38261413574219
+	}, {
+		"mode": 1,
+		"date": "2017-04-16T06:49:00",
+		"eventId": "2017-00025588",
+		"providerId": 1506,
+		"latitude": 39.05561828613281,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4213638305664
+	}, {
+		"mode": 1,
+		"date": "2017-04-16T05:20:00",
+		"eventId": "2017-00026291",
+		"providerId": 1506,
+		"latitude": 39.10029602050781,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41507720947266
+	}, {
+		"mode": 1,
+		"date": "2017-04-16T11:15:00",
+		"eventId": "2017-00025530",
+		"providerId": 1506,
+		"latitude": 39.04130172729492,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.39322662353516
+	}, {
+		"mode": 1,
+		"date": "2017-04-16T09:40:00",
+		"eventId": "2017-00037579",
+		"providerId": 3192,
+		"latitude": 39.122886657714844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.69093322753906
+	}, {
+		"mode": 1,
+		"date": "2017-04-16T08:32:00",
+		"eventId": "2017-00037616",
+		"providerId": 3192,
+		"latitude": 39.05044937133789,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.68458557128906
+	}, {
+		"mode": 1,
+		"date": "2017-04-16T03:00:00",
+		"eventId": "2017-00037588",
+		"providerId": 3192,
+		"latitude": 39.14349365234375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65849304199219
+	}, {
+		"mode": 1,
+		"date": "2017-04-16T03:00:00",
+		"eventId": "2017-00037594",
+		"providerId": 3192,
+		"latitude": 39.14349365234375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65849304199219
+	}, {
+		"mode": 1,
+		"date": "2017-04-16T03:00:00",
+		"eventId": "2017-00037596",
+		"providerId": 3192,
+		"latitude": 39.14349365234375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65849304199219
+	}, {
+		"mode": 1,
+		"date": "2017-04-16T01:30:00",
+		"eventId": "CN1701653",
+		"providerId": 61,
+		"latitude": 38.99477767944336,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71416473388672
+	}, {
+		"mode": 1,
+		"date": "2017-04-15T11:06:00",
+		"eventId": "2017-00025466",
+		"providerId": 1506,
+		"latitude": 39.101051330566406,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.40447998046875
+	}, {
+		"mode": 1,
+		"date": "2017-04-15T04:21:00",
+		"eventId": "2017-00037326",
+		"providerId": 3192,
+		"latitude": 39.11885452270508,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.74874877929688
+	}, {
+		"mode": 1,
+		"date": "2017-04-15T10:00:00",
+		"eventId": "2017-00037323",
+		"providerId": 3192,
+		"latitude": 39.07098388671875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65444946289062
+	}, {
+		"mode": 1,
+		"date": "2017-04-14T11:00:00",
+		"eventId": "2017-00037307",
+		"providerId": 3192,
+		"latitude": 39.14079666137695,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.78411865234375
+	}, {
+		"mode": 1,
+		"date": "2017-04-14T09:46:00",
+		"eventId": "2017-00037055",
+		"providerId": 3192,
+		"latitude": 39.13867950439453,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65020751953125
+	}, {
+		"mode": 1,
+		"date": "2017-04-14T08:48:00",
+		"eventId": "2017-00037036",
+		"providerId": 3192,
+		"latitude": 39.114585876464844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62137603759766
+	}, {
+		"mode": 1,
+		"date": "2017-04-13T05:18:00",
+		"eventId": "2017-00036504",
+		"providerId": 3192,
+		"latitude": 39.10533142089844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.70982360839844
+	}, {
+		"mode": 1,
+		"date": "2017-04-13T02:45:00",
+		"eventId": "2017-00036444",
+		"providerId": 3192,
+		"latitude": 39.14320755004883,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.70364379882812
+	}, {
+		"mode": 1,
+		"date": "2017-04-12T11:35:00",
+		"eventId": "2017-00036188",
+		"providerId": 3192,
+		"latitude": 39.09413528442383,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64317321777344
+	}, {
+		"mode": 1,
+		"date": "2017-04-12T09:38:00",
+		"eventId": "2017-00024682",
+		"providerId": 1506,
+		"latitude": 39.07242202758789,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.40872955322266
+	}, {
+		"mode": 1,
+		"date": "2017-04-12T05:20:00",
+		"eventId": "2017-00035868",
+		"providerId": 3192,
+		"latitude": 39.05276870727539,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6944351196289
+	}, {
+		"mode": 1,
+		"date": "2017-04-11T03:35:00",
+		"eventId": "2017-00035591",
+		"providerId": 3192,
+		"latitude": 39.09281539916992,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.74759674072266
+	}, {
+		"mode": 1,
+		"date": "2017-04-11T02:00:00",
+		"eventId": "CN1701570",
+		"providerId": 61,
+		"latitude": 38.98342514038086,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.86048126220703
+	}, {
+		"mode": 1,
+		"date": "2017-04-10T11:30:00",
+		"eventId": "2017-00035368",
+		"providerId": 3192,
+		"latitude": 39.1286506652832,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.69298553466797
+	}, {
+		"mode": 1,
+		"date": "2017-04-10T12:45:00",
+		"eventId": "CN1701549",
+		"providerId": 61,
+		"latitude": 39.01240539550781,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.72379302978516
+	}, {
+		"mode": 1,
+		"date": "2017-04-10T09:30:00",
+		"eventId": "2017-00035091",
+		"providerId": 3192,
+		"latitude": 39.1624641418457,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.8626708984375
+	}, {
+		"mode": 1,
+		"date": "2017-04-10T03:40:00",
+		"eventId": "2017-00035034",
+		"providerId": 3192,
+		"latitude": 39.07111740112305,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65653228759766
+	}, {
+		"mode": 1,
+		"date": "2017-04-09T07:58:00",
+		"eventId": "2017-00023917",
+		"providerId": 1506,
+		"latitude": 39.048362731933594,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42752075195312
+	}, {
+		"mode": 1,
+		"date": "2017-04-09T02:10:00",
+		"eventId": "2017-00034782",
+		"providerId": 3192,
+		"latitude": 39.0963134765625,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64944458007812
+	}, {
+		"mode": 1,
+		"date": "2017-04-09T09:30:00",
+		"eventId": "2017-00023823",
+		"providerId": 1506,
+		"latitude": 39.09135055541992,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.44282531738281
+	}, {
+		"mode": 1,
+		"date": "2017-04-09T09:04:00",
+		"eventId": "2017-00023821",
+		"providerId": 1506,
+		"latitude": 39.090633392333984,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43504333496094
+	}, {
+		"mode": 1,
+		"date": "2017-04-09T05:16:00",
+		"eventId": "2017-00034682",
+		"providerId": 3192,
+		"latitude": 39.14304733276367,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62876892089844
+	}, {
+		"mode": 1,
+		"date": "2017-04-09T03:36:00",
+		"eventId": "2017-00034667",
+		"providerId": 3192,
+		"latitude": 39.13096618652344,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.61946105957031
+	}, {
+		"mode": 1,
+		"date": "2017-04-09T02:29:00",
+		"eventId": "2017-00034643",
+		"providerId": 3192,
+		"latitude": 39.08706283569336,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.74591827392578
+	}, {
+		"mode": 1,
+		"date": "2017-04-09T01:00:00",
+		"eventId": "CN1701511",
+		"providerId": 61,
+		"latitude": 38.99858856201172,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.78062438964844
+	}, {
+		"mode": 1,
+		"date": "2017-04-08T11:29:00",
+		"eventId": "201712124",
+		"providerId": 504,
+		"latitude": 38.97876739501953,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.77823638916016
+	}, {
+		"mode": 1,
+		"date": "2017-04-08T11:00:00",
+		"eventId": "2017-00034577",
+		"providerId": 3192,
+		"latitude": 39.11480712890625,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64663696289062
+	}, {
+		"mode": 1,
+		"date": "2017-04-08T08:30:00",
+		"eventId": "2017-00034325",
+		"providerId": 3192,
+		"latitude": 39.107852935791016,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.76049041748047
+	}, {
+		"mode": 1,
+		"date": "2017-04-07T11:00:00",
+		"eventId": "2017-00034331",
+		"providerId": 3192,
+		"latitude": 39.140193939208984,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.659423828125
+	}, {
+		"mode": 1,
+		"date": "2017-04-07T07:15:00",
+		"eventId": "2017-00034166",
+		"providerId": 3192,
+		"latitude": 39.11861801147461,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.75215911865234
+	}, {
+		"mode": 1,
+		"date": "2017-04-07T05:49:00",
+		"eventId": "201711982",
+		"providerId": 504,
+		"latitude": 38.933319091796875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.73775482177734
+	}, {
+		"mode": 1,
+		"date": "2017-04-06T03:00:00",
+		"eventId": "2017-00033705",
+		"providerId": 3192,
+		"latitude": 39.12825012207031,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.77694702148438
+	}, {
+		"mode": 1,
+		"date": "2017-04-06T11:45:00",
+		"eventId": "2017-00034036",
+		"providerId": 3192,
+		"latitude": 39.12851333618164,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.70983123779297
+	}, {
+		"mode": 1,
+		"date": "2017-04-05T09:23:00",
+		"eventId": "201711731",
+		"providerId": 504,
+		"latitude": 38.95301055908203,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.72493743896484
+	}, {
+		"mode": 1,
+		"date": "2017-04-05T01:50:00",
+		"eventId": "CN1701443",
+		"providerId": 61,
+		"latitude": 39.01017761230469,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71131896972656
+	}, {
+		"mode": 1,
+		"date": "2017-04-04T12:15:00",
+		"eventId": "CN1701430",
+		"providerId": 61,
+		"latitude": 38.99252700805664,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.70564270019531
+	}, {
+		"mode": 1,
+		"date": "2017-04-03T07:26:00",
+		"eventId": "2017-00032703",
+		"providerId": 3192,
+		"latitude": 39.114070892333984,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.61897277832031
+	}, {
+		"mode": 1,
+		"date": "2017-04-03T06:58:00",
+		"eventId": "2017-00032696",
+		"providerId": 3192,
+		"latitude": 39.09554672241211,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63792419433594
+	}, {
+		"mode": 1,
+		"date": "2017-04-03T06:06:00",
+		"eventId": "2017-00022663",
+		"providerId": 1506,
+		"latitude": 39.09688949584961,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.44171905517578
+	}, {
+		"mode": 1,
+		"date": "2017-04-03T04:14:00",
+		"eventId": "2017-00032446",
+		"providerId": 3192,
+		"latitude": 39.133522033691406,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64910125732422
+	}, {
+		"mode": 1,
+		"date": "2017-04-02T09:04:00",
+		"eventId": "2017-00022504",
+		"providerId": 1506,
+		"latitude": 39.086669921875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.46379089355469
+	}, {
+		"mode": 1,
+		"date": "2017-04-02T08:10:00",
+		"eventId": "2017-00022499",
+		"providerId": 1506,
+		"latitude": 39.10578918457031,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.46572875976562
+	}, {
+		"mode": 1,
+		"date": "2017-04-02T04:00:00",
+		"eventId": "2017-00032260",
+		"providerId": 3192,
+		"latitude": 39.051902770996094,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.68439483642578
+	}, {
+		"mode": 1,
+		"date": "2017-04-02T08:55:00",
+		"eventId": "2017-00032164",
+		"providerId": 3192,
+		"latitude": 39.105159759521484,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7420654296875
+	}, {
+		"mode": 1,
+		"date": "2017-04-01T09:00:00",
+		"eventId": "2017-00032050",
+		"providerId": 3192,
+		"latitude": 39.11819839477539,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7625732421875
+	}, {
+		"mode": 1,
+		"date": "2017-04-01T05:15:00",
+		"eventId": "2017-00022305",
+		"providerId": 1506,
+		"latitude": 39.080108642578125,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43980407714844
+	}, {
+		"mode": 1,
+		"date": "2017-04-01T03:10:00",
+		"eventId": "2017-00022254",
+		"providerId": 1506,
+		"latitude": 39.06559753417969,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.39120483398438
+	}, {
+		"mode": 1,
+		"date": "2017-04-01T03:05:00",
+		"eventId": "2017-00031882",
+		"providerId": 3192,
+		"latitude": 39.12419509887695,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6434097290039
+	}, {
+		"mode": 1,
+		"date": "2017-04-01T06:19:00",
+		"eventId": "2017-00031798",
+		"providerId": 3192,
+		"latitude": 39.113677978515625,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62409973144531
+	}, {
+		"mode": 1,
+		"date": "2017-03-31T12:53:00",
+		"eventId": "2017-00031623",
+		"providerId": 3192,
+		"latitude": 39.08600616455078,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64305114746094
+	}, {
+		"mode": 1,
+		"date": "2017-03-30T11:00:00",
+		"eventId": "2017-00031263",
+		"providerId": 3192,
+		"latitude": 39.072906494140625,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65338897705078
+	}, {
+		"mode": 1,
+		"date": "2017-03-30T08:00:00",
+		"eventId": "2017-00031225",
+		"providerId": 3192,
+		"latitude": 39.147422790527344,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7060546875
+	}, {
+		"mode": 1,
+		"date": "2017-03-30T02:51:00",
+		"eventId": "2017-00021841",
+		"providerId": 1506,
+		"latitude": 39.03128433227539,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.37682342529297
+	}, {
+		"mode": 1,
+		"date": "2017-03-30T12:54:00",
+		"eventId": "2017-00031078",
+		"providerId": 3192,
+		"latitude": 39.129974365234375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.68498992919922
+	}, {
+		"mode": 1,
+		"date": "2017-03-30T04:45:00",
+		"eventId": "2017-00030981",
+		"providerId": 3192,
+		"latitude": 39.15202331542969,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.74799346923828
+	}, {
+		"mode": 1,
+		"date": "2017-03-29T08:45:00",
+		"eventId": "2017-00030886",
+		"providerId": 3192,
+		"latitude": 39.1148567199707,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6217269897461
+	}, {
+		"mode": 1,
+		"date": "2017-03-29T06:30:00",
+		"eventId": "201700760",
+		"providerId": 60,
+		"latitude": 38.99687957763672,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62293243408203
+	}, {
+		"mode": 1,
+		"date": "2017-03-29T09:43:00",
+		"eventId": "2017-00021578",
+		"providerId": 1506,
+		"latitude": 39.05441665649414,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42591857910156
+	}, {
+		"mode": 1,
+		"date": "2017-03-28T07:45:00",
+		"eventId": "2017-00030530",
+		"providerId": 3192,
+		"latitude": 39.132266998291016,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6217269897461
+	}, {
+		"mode": 1,
+		"date": "2017-03-28T12:06:00",
+		"eventId": "2017-00021384",
+		"providerId": 1506,
+		"latitude": 39.09421157836914,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.44894409179688
+	}, {
+		"mode": 1,
+		"date": "2017-03-28T12:30:00",
+		"eventId": "2017-00021455",
+		"providerId": 1506,
+		"latitude": 39.06560516357422,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.39076232910156
+	}, {
+		"mode": 1,
+		"date": "2017-03-27T10:30:00",
+		"eventId": "2017-00030182",
+		"providerId": 3192,
+		"latitude": 39.07296371459961,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65348815917969
+	}, {
+		"mode": 1,
+		"date": "2017-03-27T09:40:00",
+		"eventId": "CN1701322",
+		"providerId": 61,
+		"latitude": 39.04039001464844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.8415756225586
+	}, {
+		"mode": 1,
+		"date": "2017-03-27T03:11:00",
+		"eventId": "2017-00030047",
+		"providerId": 3192,
+		"latitude": 39.14746856689453,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71022033691406
+	}, {
+		"mode": 1,
+		"date": "2017-03-27T07:00:00",
+		"eventId": "2017-00029917",
+		"providerId": 3192,
+		"latitude": 39.10533142089844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.70982360839844
+	}, {
+		"mode": 1,
+		"date": "2017-03-27T12:30:00",
+		"eventId": "2017-00029873",
+		"providerId": 3192,
+		"latitude": 39.12128448486328,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.67073059082031
+	}, {
+		"mode": 1,
+		"date": "2017-03-27T12:00:00",
+		"eventId": "2017-00029859",
+		"providerId": 3192,
+		"latitude": 39.10883712768555,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62242889404297
+	}, {
+		"mode": 1,
+		"date": "2017-03-26T09:00:00",
+		"eventId": "2017-00030775",
+		"providerId": 3192,
+		"latitude": 39.08755111694336,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.74565887451172
+	}, {
+		"mode": 1,
+		"date": "2017-03-26T07:45:00",
+		"eventId": "2017-00029845",
+		"providerId": 3192,
+		"latitude": 39.14263916015625,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.68243408203125
+	}, {
+		"mode": 1,
+		"date": "2017-03-26T10:40:00",
+		"eventId": "2017-00029668",
+		"providerId": 3192,
+		"latitude": 39.126197814941406,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63565063476562
+	}, {
+		"mode": 1,
+		"date": "2017-03-26T12:23:00",
+		"eventId": "201710546",
+		"providerId": 504,
+		"latitude": 38.98698043823242,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.72626495361328
+	}, {
+		"mode": 1,
+		"date": "2017-03-25T11:00:00",
+		"eventId": "2017-00029541",
+		"providerId": 3192,
+		"latitude": 39.1026496887207,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62739562988281
+	}, {
+		"mode": 1,
+		"date": "2017-03-25T10:00:00",
+		"eventId": "2017-00020948",
+		"providerId": 1506,
+		"latitude": 39.0872688293457,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4669418334961
+	}, {
+		"mode": 1,
+		"date": "2017-03-24T12:50:00",
+		"eventId": "CN1701256",
+		"providerId": 61,
+		"latitude": 39.00624084472656,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.76115417480469
+	}, {
+		"mode": 1,
+		"date": "2017-03-24T11:00:00",
+		"eventId": "CN1701302",
+		"providerId": 61,
+		"latitude": 39.00648498535156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7319564819336
+	}, {
+		"mode": 1,
+		"date": "2017-03-23T11:15:00",
+		"eventId": "2017-00028817",
+		"providerId": 3192,
+		"latitude": 39.1246223449707,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.68099212646484
+	}, {
+		"mode": 1,
+		"date": "2017-03-23T11:00:00",
+		"eventId": "2017-00028852",
+		"providerId": 3192,
+		"latitude": 39.1429557800293,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.67559814453125
+	}, {
+		"mode": 1,
+		"date": "2017-03-23T08:40:00",
+		"eventId": "2017-00028773",
+		"providerId": 3192,
+		"latitude": 39.103172302246094,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64095306396484
+	}, {
+		"mode": 1,
+		"date": "2017-03-23T10:30:00",
+		"eventId": "2017-00020373",
+		"providerId": 1506,
+		"latitude": 39.072227478027344,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4448013305664
+	}, {
+		"mode": 1,
+		"date": "2017-03-23T01:45:00",
+		"eventId": "2017-00028445",
+		"providerId": 3192,
+		"latitude": 39.129478454589844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6244888305664
+	}, {
+		"mode": 1,
+		"date": "2017-03-22T11:15:00",
+		"eventId": "2017-00028406",
+		"providerId": 3192,
+		"latitude": 39.13385772705078,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65222930908203
+	}, {
+		"mode": 1,
+		"date": "2017-03-22T08:38:00",
+		"eventId": "2017-00028374",
+		"providerId": 3192,
+		"latitude": 39.097843170166016,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64762115478516
+	}, {
+		"mode": 1,
+		"date": "2017-03-22T06:00:00",
+		"eventId": "2017-00020034",
+		"providerId": 1506,
+		"latitude": 39.120521545410156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41971588134766
+	}, {
+		"mode": 1,
+		"date": "2017-03-22T12:07:00",
+		"eventId": "2017-00028032",
+		"providerId": 3192,
+		"latitude": 39.11130905151367,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62391662597656
+	}, {
+		"mode": 1,
+		"date": "2017-03-21T09:40:00",
+		"eventId": "2017-00027998",
+		"providerId": 3192,
+		"latitude": 39.046295166015625,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.60934448242188
+	}, {
+		"mode": 1,
+		"date": "2017-03-21T09:39:00",
+		"eventId": "2017-00019767",
+		"providerId": 1506,
+		"latitude": 39.09284973144531,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43643951416016
+	}, {
+		"mode": 1,
+		"date": "2017-03-21T03:32:00",
+		"eventId": "2017-00019576",
+		"providerId": 1506,
+		"latitude": 39.10962677001953,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.37750244140625
+	}, {
+		"mode": 1,
+		"date": "2017-03-21T02:00:00",
+		"eventId": "2017-00019660",
+		"providerId": 1506,
+		"latitude": 39.10483169555664,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41944885253906
+	}, {
+		"mode": 1,
+		"date": "2017-03-21T01:30:00",
+		"eventId": "2017-00019570",
+		"providerId": 1506,
+		"latitude": 39.108699798583984,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42207336425781
+	}, {
+		"mode": 1,
+		"date": "2017-03-20T07:20:00",
+		"eventId": "2017-00019486",
+		"providerId": 1506,
+		"latitude": 39.08989715576172,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4044189453125
+	}, {
+		"mode": 1,
+		"date": "2017-03-20T04:00:00",
+		"eventId": "2017-00027603",
+		"providerId": 3192,
+		"latitude": 39.07258987426758,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.67193603515625
+	}, {
+		"mode": 1,
+		"date": "2017-03-20T03:21:00",
+		"eventId": "2017-00027493",
+		"providerId": 3192,
+		"latitude": 39.11659240722656,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6928482055664
+	}, {
+		"mode": 1,
+		"date": "2017-03-20T01:14:00",
+		"eventId": "2017-00019397",
+		"providerId": 1506,
+		"latitude": 39.093814849853516,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45948791503906
+	}, {
+		"mode": 1,
+		"date": "2017-03-20T05:45:00",
+		"eventId": "2017-00027347",
+		"providerId": 3192,
+		"latitude": 39.13592529296875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.70516967773438
+	}, {
+		"mode": 1,
+		"date": "2017-03-20T01:10:00",
+		"eventId": "2017-00027328",
+		"providerId": 3192,
+		"latitude": 39.12199783325195,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71794128417969
+	}, {
+		"mode": 1,
+		"date": "2017-03-19T11:00:00",
+		"eventId": "2017-00027509",
+		"providerId": 3192,
+		"latitude": 39.10254669189453,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.67047119140625
+	}, {
+		"mode": 1,
+		"date": "2017-03-19T10:00:00",
+		"eventId": "2017-00027352",
+		"providerId": 3192,
+		"latitude": 39.0533447265625,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.61627197265625
+	}, {
+		"mode": 1,
+		"date": "2017-03-19T06:00:00",
+		"eventId": "CN1701257",
+		"providerId": 61,
+		"latitude": 39.00880432128906,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.74536895751953
+	}, {
+		"mode": 1,
+		"date": "2017-03-19T03:00:00",
+		"eventId": "CN1701194",
+		"providerId": 61,
+		"latitude": 38.99531173706055,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71833801269531
+	}, {
+		"mode": 1,
+		"date": "2017-03-19T02:27:00",
+		"eventId": "2017-00027042",
+		"providerId": 3192,
+		"latitude": 39.07304763793945,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.67351531982422
+	}, {
+		"mode": 1,
+		"date": "2017-03-18T11:00:00",
+		"eventId": "2017-00027032",
+		"providerId": 3192,
+		"latitude": 39.12899398803711,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64979553222656
+	}, {
+		"mode": 1,
+		"date": "2017-03-17T11:47:00",
+		"eventId": "2017-00018813",
+		"providerId": 1506,
+		"latitude": 39.12891387939453,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.38459014892578
+	}, {
+		"mode": 1,
+		"date": "2017-03-17T10:30:00",
+		"eventId": "2017-00026612",
+		"providerId": 3192,
+		"latitude": 39.08888244628906,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.74620819091797
+	}, {
+		"mode": 1,
+		"date": "2017-03-17T03:00:00",
+		"eventId": "2017-00018685",
+		"providerId": 1506,
+		"latitude": 39.08591842651367,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.44925689697266
+	}, {
+		"mode": 1,
+		"date": "2017-03-17T09:30:00",
+		"eventId": "CN1701151",
+		"providerId": 61,
+		"latitude": 38.993446350097656,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71867370605469
+	}, {
+		"mode": 1,
+		"date": "2017-03-16T05:00:00",
+		"eventId": "2017-00018921",
+		"providerId": 1506,
+		"latitude": 39.11288833618164,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45726776123047
+	}, {
+		"mode": 1,
+		"date": "2017-03-16T11:45:00",
+		"eventId": "2017-00025947",
+		"providerId": 3192,
+		"latitude": 39.140411376953125,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.70606994628906
+	}, {
+		"mode": 1,
+		"date": "2017-03-16T08:00:00",
+		"eventId": "2017-00018339",
+		"providerId": 1506,
+		"latitude": 39.05243682861328,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.3907470703125
+	}, {
+		"mode": 1,
+		"date": "2017-03-16T07:30:00",
+		"eventId": "2017-00018368",
+		"providerId": 1506,
+		"latitude": 39.07209014892578,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43757629394531
+	}, {
+		"mode": 1,
+		"date": "2017-03-15T08:30:00",
+		"eventId": "2017-00018361",
+		"providerId": 1506,
+		"latitude": 39.07910919189453,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41388702392578
+	}, {
+		"mode": 1,
+		"date": "2017-03-15T04:15:00",
+		"eventId": "2017-00025633",
+		"providerId": 3192,
+		"latitude": 39.11582565307617,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64048767089844
+	}, {
+		"mode": 1,
+		"date": "2017-03-15T02:36:00",
+		"eventId": "2017-00025594",
+		"providerId": 3192,
+		"latitude": 39.04939270019531,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.61923217773438
+	}, {
+		"mode": 1,
+		"date": "2017-03-14T01:42:00",
+		"eventId": "2017-00025195",
+		"providerId": 3192,
+		"latitude": 39.12088394165039,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71817779541016
+	}, {
+		"mode": 1,
+		"date": "2017-03-14T09:30:00",
+		"eventId": "17-0839PD",
+		"providerId": 90,
+		"latitude": 39.010372161865234,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45944213867188
+	}, {
+		"mode": 1,
+		"date": "2017-03-14T09:20:00",
+		"eventId": "2017-00017860",
+		"providerId": 1506,
+		"latitude": 39.08512496948242,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.38607025146484
+	}, {
+		"mode": 1,
+		"date": "2017-03-14T12:00:00",
+		"eventId": "2017-00017906",
+		"providerId": 1506,
+		"latitude": 39.080345153808594,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4042739868164
+	}, {
+		"mode": 1,
+		"date": "2017-03-13T12:00:00",
+		"eventId": "2017-00024942",
+		"providerId": 3192,
+		"latitude": 39.1461181640625,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.81615447998047
+	}, {
+		"mode": 1,
+		"date": "2017-03-13T05:30:00",
+		"eventId": "2017-00024700",
+		"providerId": 3192,
+		"latitude": 39.084144592285156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.74321746826172
+	}, {
+		"mode": 1,
+		"date": "2017-03-12T11:37:00",
+		"eventId": "2017-00017550",
+		"providerId": 1506,
+		"latitude": 39.048160552978516,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.36407470703125
+	}, {
+		"mode": 1,
+		"date": "2017-03-12T06:17:00",
+		"eventId": "2017-00017402",
+		"providerId": 1506,
+		"latitude": 39.0884895324707,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41561126708984
+	}, {
+		"mode": 1,
+		"date": "2017-03-12T03:15:00",
+		"eventId": "2017-00017385",
+		"providerId": 1506,
+		"latitude": 39.06512451171875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.44523620605469
+	}, {
+		"mode": 1,
+		"date": "2017-03-11T11:50:00",
+		"eventId": "2017-00017366",
+		"providerId": 1506,
+		"latitude": 39.08430099487305,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4488525390625
+	}, {
+		"mode": 1,
+		"date": "2017-03-11T03:50:00",
+		"eventId": "2017-00024237",
+		"providerId": 3192,
+		"latitude": 39.04701232910156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63739013671875
+	}, {
+		"mode": 1,
+		"date": "2017-03-11T06:15:00",
+		"eventId": "2017-00024143",
+		"providerId": 3192,
+		"latitude": 39.13191604614258,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65975952148438
+	}, {
+		"mode": 1,
+		"date": "2017-03-11T05:00:00",
+		"eventId": "2017-00024136",
+		"providerId": 3192,
+		"latitude": 39.12144470214844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.751953125
+	}, {
+		"mode": 1,
+		"date": "2017-03-11T04:00:00",
+		"eventId": "2017-00024252",
+		"providerId": 3192,
+		"latitude": 39.103084564208984,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7453384399414
+	}, {
+		"mode": 1,
+		"date": "2017-03-11T12:30:00",
+		"eventId": "CN1701077",
+		"providerId": 61,
+		"latitude": 39.01156234741211,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.768310546875
+	}, {
+		"mode": 1,
+		"date": "2017-03-10T09:00:00",
+		"eventId": "2017-00019648",
+		"providerId": 1506,
+		"latitude": 39.03400421142578,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.3740234375
+	}, {
+		"mode": 1,
+		"date": "2017-03-10T05:00:00",
+		"eventId": "2017-00023959",
+		"providerId": 3192,
+		"latitude": 39.097591400146484,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63861846923828
+	}, {
+		"mode": 1,
+		"date": "2017-03-10T04:00:00",
+		"eventId": "2017-00025403",
+		"providerId": 1506,
+		"latitude": 39.126277923583984,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.35845947265625
+	}, {
+		"mode": 1,
+		"date": "2017-03-10T12:15:00",
+		"eventId": "2017-00023859",
+		"providerId": 3192,
+		"latitude": 39.103031158447266,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64796447753906
+	}, {
+		"mode": 1,
+		"date": "2017-03-09T09:55:00",
+		"eventId": "2017-00016850",
+		"providerId": 1506,
+		"latitude": 39.10006332397461,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43058776855469
+	}, {
+		"mode": 1,
+		"date": "2017-03-09T05:19:00",
+		"eventId": "2017-00023618",
+		"providerId": 3192,
+		"latitude": 39.10258483886719,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.76727294921875
+	}, {
+		"mode": 1,
+		"date": "2017-03-09T10:15:00",
+		"eventId": "CN1701034",
+		"providerId": 61,
+		"latitude": 39.00648498535156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7319564819336
+	}, {
+		"mode": 1,
+		"date": "2017-03-09T05:10:00",
+		"eventId": "2017-00023403",
+		"providerId": 3192,
+		"latitude": 39.12248611450195,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.81526947021484
+	}, {
+		"mode": 1,
+		"date": "2017-03-09T02:07:00",
+		"eventId": "2017-00016613",
+		"providerId": 1506,
+		"latitude": 39.09561538696289,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.46446228027344
+	}, {
+		"mode": 1,
+		"date": "2017-03-09T12:26:00",
+		"eventId": "2017-00023371",
+		"providerId": 3192,
+		"latitude": 39.082855224609375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62721252441406
+	}, {
+		"mode": 1,
+		"date": "2017-03-07T09:00:00",
+		"eventId": "20178438",
+		"providerId": 504,
+		"latitude": 38.93229293823242,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7577133178711
+	}, {
+		"mode": 1,
+		"date": "2017-03-07T08:20:00",
+		"eventId": "2017-00016271",
+		"providerId": 1506,
+		"latitude": 39.03386688232422,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42591857910156
+	}, {
+		"mode": 1,
+		"date": "2017-03-06T11:50:00",
+		"eventId": "CN1700998",
+		"providerId": 61,
+		"latitude": 38.99031066894531,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7783432006836
+	}, {
+		"mode": 1,
+		"date": "2017-03-06T05:50:00",
+		"eventId": "CN1700993",
+		"providerId": 61,
+		"latitude": 39.01029586791992,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71269226074219
+	}, {
+		"mode": 1,
+		"date": "2017-03-06T03:35:00",
+		"eventId": "CN1700991",
+		"providerId": 61,
+		"latitude": 39.015132904052734,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7234115600586
+	}, {
+		"mode": 1,
+		"date": "2017-03-06T03:34:00",
+		"eventId": "2017-00015912",
+		"providerId": 1506,
+		"latitude": 39.12033462524414,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.37921142578125
+	}, {
+		"mode": 1,
+		"date": "2017-03-06T12:43:00",
+		"eventId": "2017-00015723",
+		"providerId": 1506,
+		"latitude": 39.04580307006836,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.44111633300781
+	}, {
+		"mode": 1,
+		"date": "2017-03-05T04:00:00",
+		"eventId": "2017-00022024",
+		"providerId": 3192,
+		"latitude": 39.121028900146484,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65413665771484
+	}, {
+		"mode": 1,
+		"date": "2017-03-05T10:01:00",
+		"eventId": "2017-00021940",
+		"providerId": 3192,
+		"latitude": 39.14517593383789,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.66934967041016
+	}, {
+		"mode": 1,
+		"date": "2017-03-04T10:17:00",
+		"eventId": "2017-00021809",
+		"providerId": 3192,
+		"latitude": 39.11625671386719,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6876449584961
+	}, {
+		"mode": 1,
+		"date": "2017-03-04T02:05:00",
+		"eventId": "2017-00021653",
+		"providerId": 3192,
+		"latitude": 39.10230255126953,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64704132080078
+	}, {
+		"mode": 1,
+		"date": "2017-03-04T09:05:00",
+		"eventId": "2017-00021583",
+		"providerId": 3192,
+		"latitude": 39.149417877197266,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.660888671875
+	}, {
+		"mode": 1,
+		"date": "2017-03-04T01:12:00",
+		"eventId": "2017-00015260",
+		"providerId": 1506,
+		"latitude": 39.036582946777344,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42700958251953
+	}, {
+		"mode": 1,
+		"date": "2017-03-03T11:57:00",
+		"eventId": "17-0724PD",
+		"providerId": 90,
+		"latitude": 39.026878356933594,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.447265625
+	}, {
+		"mode": 1,
+		"date": "2017-03-03T09:12:00",
+		"eventId": "20177853",
+		"providerId": 504,
+		"latitude": 38.93229293823242,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.73970031738281
+	}, {
+		"mode": 1,
+		"date": "2017-03-03T08:12:00",
+		"eventId": "2017-00021410",
+		"providerId": 3192,
+		"latitude": 39.08565902709961,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63316345214844
+	}, {
+		"mode": 1,
+		"date": "2017-03-03T04:00:00",
+		"eventId": "2017-00021324",
+		"providerId": 3192,
+		"latitude": 39.114341735839844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63421630859375
+	}, {
+		"mode": 1,
+		"date": "2017-03-03T04:00:00",
+		"eventId": "CN1700950",
+		"providerId": 61,
+		"latitude": 39.0071907043457,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.73860931396484
+	}, {
+		"mode": 1,
+		"date": "2017-03-02T03:18:00",
+		"eventId": "2017-00014795",
+		"providerId": 1506,
+		"latitude": 39.09062194824219,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4621353149414
+	}, {
+		"mode": 1,
+		"date": "2017-03-02T12:26:00",
+		"eventId": "17-0699PD",
+		"providerId": 90,
+		"latitude": 39.012489318847656,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.46376037597656
+	}, {
+		"mode": 1,
+		"date": "2017-02-28T06:15:00",
+		"eventId": "CN1700893",
+		"providerId": 61,
+		"latitude": 39.00011444091797,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.72544860839844
+	}, {
+		"mode": 1,
+		"date": "2017-02-28T03:31:00",
+		"eventId": "2017-00014275",
+		"providerId": 1506,
+		"latitude": 39.05276870727539,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.37664031982422
+	}, {
+		"mode": 1,
+		"date": "2017-02-28T10:00:00",
+		"eventId": "CN1700913",
+		"providerId": 61,
+		"latitude": 39.00844955444336,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.8436508178711
+	}, {
+		"mode": 1,
+		"date": "2017-02-27T07:00:00",
+		"eventId": "2017-00014017",
+		"providerId": 1506,
+		"latitude": 39.10663604736328,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.47494506835938
+	}, {
+		"mode": 1,
+		"date": "2017-02-27T12:30:00",
+		"eventId": "2017-00013909",
+		"providerId": 1506,
+		"latitude": 39.08473587036133,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43275451660156
+	}, {
+		"mode": 1,
+		"date": "2017-02-26T06:26:00",
+		"eventId": "2017-00013583",
+		"providerId": 1506,
+		"latitude": 39.08002853393555,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.40779876708984
+	}, {
+		"mode": 1,
+		"date": "2017-02-25T09:37:00",
+		"eventId": "20177167",
+		"providerId": 504,
+		"latitude": 38.949371337890625,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.8355941772461
+	}, {
+		"mode": 1,
+		"date": "2017-02-24T01:45:00",
+		"eventId": "17-0643PD",
+		"providerId": 90,
+		"latitude": 38.988704681396484,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.47828674316406
+	}, {
+		"mode": 1,
+		"date": "2017-02-22T12:48:00",
+		"eventId": "2017-00012482",
+		"providerId": 1506,
+		"latitude": 39.08119583129883,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42335510253906
+	}, {
+		"mode": 1,
+		"date": "2017-02-21T08:55:00",
+		"eventId": "2017-00017905",
+		"providerId": 3192,
+		"latitude": 39.104373931884766,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62967681884766
+	}, {
+		"mode": 1,
+		"date": "2017-02-21T03:10:00",
+		"eventId": "17-0602PD",
+		"providerId": 90,
+		"latitude": 39.025943756103516,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.47298431396484
+	}, {
+		"mode": 1,
+		"date": "2017-02-21T02:50:00",
+		"eventId": "17-0601PD",
+		"providerId": 90,
+		"latitude": 39.015689849853516,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45938873291016
+	}, {
+		"mode": 1,
+		"date": "2017-02-21T07:30:00",
+		"eventId": "2017-00012090",
+		"providerId": 1506,
+		"latitude": 39.124935150146484,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.37032318115234
+	}, {
+		"mode": 1,
+		"date": "2017-02-20T02:00:00",
+		"eventId": "2017-00017245",
+		"providerId": 3192,
+		"latitude": 39.14443588256836,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.72135162353516
+	}, {
+		"mode": 1,
+		"date": "2017-02-20T01:28:00",
+		"eventId": "2017-00011798",
+		"providerId": 1506,
+		"latitude": 39.0392951965332,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42945098876953
+	}, {
+		"mode": 1,
+		"date": "2017-02-20T12:33:00",
+		"eventId": "2017-00017230",
+		"providerId": 3192,
+		"latitude": 39.12486267089844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65191650390625
+	}, {
+		"mode": 1,
+		"date": "2017-02-18T11:59:00",
+		"eventId": "2017-00011551",
+		"providerId": 1506,
+		"latitude": 39.093204498291016,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43795013427734
+	}, {
+		"mode": 1,
+		"date": "2017-02-18T01:45:00",
+		"eventId": "2017-00016707",
+		"providerId": 3192,
+		"latitude": 39.08312225341797,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64434051513672
+	}, {
+		"mode": 1,
+		"date": "2017-02-18T12:32:00",
+		"eventId": "2017-00016687",
+		"providerId": 3192,
+		"latitude": 39.09635925292969,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63191986083984
+	}, {
+		"mode": 1,
+		"date": "2017-02-18T03:35:00",
+		"eventId": "2017-00016599",
+		"providerId": 3192,
+		"latitude": 39.12899398803711,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64979553222656
+	}, {
+		"mode": 1,
+		"date": "2017-02-17T07:23:00",
+		"eventId": "2017-00016467",
+		"providerId": 3192,
+		"latitude": 39.124942779541016,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64923858642578
+	}, {
+		"mode": 1,
+		"date": "2017-02-17T05:30:00",
+		"eventId": "2017-00011155",
+		"providerId": 1506,
+		"latitude": 39.087989807128906,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41281127929688
+	}, {
+		"mode": 1,
+		"date": "2017-02-17T04:00:00",
+		"eventId": "2017-00016434",
+		"providerId": 3192,
+		"latitude": 39.11175537109375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.74210357666016
+	}, {
+		"mode": 1,
+		"date": "2017-02-17T11:33:00",
+		"eventId": "2017-00016306",
+		"providerId": 3192,
+		"latitude": 39.1356086730957,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.67887115478516
+	}, {
+		"mode": 1,
+		"date": "2017-02-17T12:15:00",
+		"eventId": "2017-00016176",
+		"providerId": 3192,
+		"latitude": 39.05107498168945,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.61219024658203
+	}, {
+		"mode": 1,
+		"date": "2017-02-16T10:30:00",
+		"eventId": "CN1700735",
+		"providerId": 61,
+		"latitude": 39.016727447509766,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.73593139648438
+	}, {
+		"mode": 1,
+		"date": "2017-02-16T02:30:00",
+		"eventId": "2017-00015956",
+		"providerId": 3192,
+		"latitude": 39.105743408203125,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.68058013916016
+	}, {
+		"mode": 1,
+		"date": "2017-02-16T03:34:00",
+		"eventId": "2017-00015782",
+		"providerId": 3192,
+		"latitude": 39.12714767456055,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.61580657958984
+	}, {
+		"mode": 1,
+		"date": "2017-02-16T02:00:00",
+		"eventId": "2017-00015773",
+		"providerId": 3192,
+		"latitude": 39.10114288330078,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.75365447998047
+	}, {
+		"mode": 1,
+		"date": "2017-02-15T02:37:00",
+		"eventId": "2017-00010569",
+		"providerId": 1506,
+		"latitude": 39.10257339477539,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41954040527344
+	}, {
+		"mode": 1,
+		"date": "2017-02-14T10:40:00",
+		"eventId": "2017-00010226",
+		"providerId": 1506,
+		"latitude": 39.10353469848633,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45848846435547
+	}, {
+		"mode": 1,
+		"date": "2017-02-13T09:12:00",
+		"eventId": "2017-00010112",
+		"providerId": 1506,
+		"latitude": 39.09653854370117,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45307922363281
+	}, {
+		"mode": 1,
+		"date": "2017-02-13T07:59:00",
+		"eventId": "2017-00014970",
+		"providerId": 3192,
+		"latitude": 39.10112380981445,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63105773925781
+	}, {
+		"mode": 1,
+		"date": "2017-02-13T05:34:00",
+		"eventId": "2017-00014934",
+		"providerId": 3192,
+		"latitude": 39.128543853759766,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.74559783935547
+	}, {
+		"mode": 1,
+		"date": "2017-02-13T09:31:00",
+		"eventId": "2017-00014792",
+		"providerId": 3192,
+		"latitude": 39.144100189208984,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7490005493164
+	}, {
+		"mode": 1,
+		"date": "2017-02-13T05:40:00",
+		"eventId": "2017-00009900",
+		"providerId": 1506,
+		"latitude": 39.08467483520508,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45860290527344
+	}, {
+		"mode": 1,
+		"date": "2017-02-12T09:59:00",
+		"eventId": "2017-00009860",
+		"providerId": 1506,
+		"latitude": 39.035457611083984,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43212890625
+	}, {
+		"mode": 1,
+		"date": "2017-02-12T04:15:00",
+		"eventId": "2017-00009802",
+		"providerId": 1506,
+		"latitude": 39.09393310546875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41980743408203
+	}, {
+		"mode": 1,
+		"date": "2017-02-12T03:22:00",
+		"eventId": "2017-00014563",
+		"providerId": 3192,
+		"latitude": 39.125,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.72709655761719
+	}, {
+		"mode": 1,
+		"date": "2017-02-12T03:00:00",
+		"eventId": "CN1700761",
+		"providerId": 61,
+		"latitude": 38.99551010131836,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.71293640136719
+	}, {
+		"mode": 1,
+		"date": "2017-02-12T11:00:00",
+		"eventId": "2017-00014658",
+		"providerId": 3192,
+		"latitude": 39.096065521240234,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64491271972656
+	}, {
+		"mode": 1,
+		"date": "2017-02-12T01:15:00",
+		"eventId": "2017-00009678",
+		"providerId": 1506,
+		"latitude": 39.09061050415039,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.39579772949219
+	}, {
+		"mode": 1,
+		"date": "2017-02-11T10:30:00",
+		"eventId": "2017-00014523",
+		"providerId": 3192,
+		"latitude": 39.13517761230469,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.68466186523438
+	}, {
+		"mode": 1,
+		"date": "2017-02-11T04:53:00",
+		"eventId": "2017-00009568",
+		"providerId": 1506,
+		"latitude": 39.043609619140625,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.39089965820312
+	}, {
+		"mode": 1,
+		"date": "2017-02-11T03:23:00",
+		"eventId": "2017-00014179",
+		"providerId": 3192,
+		"latitude": 39.10807418823242,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64908599853516
+	}, {
+		"mode": 1,
+		"date": "2017-02-11T03:11:00",
+		"eventId": "2017-00009575",
+		"providerId": 1506,
+		"latitude": 39.0639762878418,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.44608306884766
+	}, {
+		"mode": 1,
+		"date": "2017-02-11T02:53:00",
+		"eventId": "2017-00014034",
+		"providerId": 3192,
+		"latitude": 39.10346603393555,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64002227783203
+	}, {
+		"mode": 1,
+		"date": "2017-02-10T11:17:00",
+		"eventId": "2017-00013990",
+		"providerId": 3192,
+		"latitude": 39.11946487426758,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.66056060791016
+	}, {
+		"mode": 1,
+		"date": "2017-02-10T07:22:00",
+		"eventId": "2017-00009279",
+		"providerId": 1506,
+		"latitude": 39.045814514160156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.35618591308594
+	}, {
+		"mode": 1,
+		"date": "2017-02-10T06:04:00",
+		"eventId": "2017-00013915",
+		"providerId": 3192,
+		"latitude": 39.13007354736328,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.77777099609375
+	}, {
+		"mode": 1,
+		"date": "2017-02-09T12:00:00",
+		"eventId": "2017-00013428",
+		"providerId": 3192,
+		"latitude": 39.04511642456055,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.70585632324219
+	}, {
+		"mode": 1,
+		"date": "2017-02-09T09:00:00",
+		"eventId": "2017-00009021",
+		"providerId": 1506,
+		"latitude": 39.1245231628418,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42042541503906
+	}, {
+		"mode": 1,
+		"date": "2017-02-08T10:23:00",
+		"eventId": "2017-00008662",
+		"providerId": 1506,
+		"latitude": 39.10469436645508,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42220306396484
+	}, {
+		"mode": 1,
+		"date": "2017-02-08T08:43:00",
+		"eventId": "2017-01043",
+		"providerId": 3067,
+		"latitude": 39.01344299316406,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.28434753417969
+	}, {
+		"mode": 1,
+		"date": "2017-02-08T12:23:00",
+		"eventId": "2017-00008599",
+		"providerId": 1506,
+		"latitude": 39.04297637939453,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43223571777344
+	}, {
+		"mode": 1,
+		"date": "2017-02-08T12:05:00",
+		"eventId": "2017-00012907",
+		"providerId": 3192,
+		"latitude": 39.13037109375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.66639709472656
+	}, {
+		"mode": 1,
+		"date": "2017-02-07T10:37:00",
+		"eventId": "20174864",
+		"providerId": 504,
+		"latitude": 38.95198059082031,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.73538970947266
+	}, {
+		"mode": 1,
+		"date": "2017-02-07T04:34:00",
+		"eventId": "2017-00008416",
+		"providerId": 1506,
+		"latitude": 39.089744567871094,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43364715576172
+	}, {
+		"mode": 1,
+		"date": "2017-02-06T11:50:00",
+		"eventId": "2017-00012537",
+		"providerId": 3192,
+		"latitude": 39.09281539916992,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.74759674072266
+	}, {
+		"mode": 1,
+		"date": "2017-02-06T06:45:00",
+		"eventId": "2017-00008322",
+		"providerId": 1506,
+		"latitude": 39.069847106933594,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.37825012207031
+	}, {
+		"mode": 1,
+		"date": "2017-02-06T05:30:00",
+		"eventId": "17-0444PD",
+		"providerId": 90,
+		"latitude": 39.01546096801758,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45640563964844
+	}, {
+		"mode": 1,
+		"date": "2017-02-06T10:55:00",
+		"eventId": "CN1700563",
+		"providerId": 61,
+		"latitude": 39.01425552368164,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.72348022460938
+	}, {
+		"mode": 1,
+		"date": "2017-02-05T09:29:00",
+		"eventId": "2017-00008101",
+		"providerId": 1506,
+		"latitude": 39.06309509277344,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.2809066772461
+	}, {
+		"mode": 1,
+		"date": "2017-02-05T02:45:00",
+		"eventId": "2017-00011954",
+		"providerId": 3192,
+		"latitude": 39.066959381103516,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.66519165039062
+	}, {
+		"mode": 1,
+		"date": "2017-02-05T01:53:00",
+		"eventId": "2017-00007954",
+		"providerId": 1506,
+		"latitude": 39.11964416503906,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.32290649414062
+	}, {
+		"mode": 1,
+		"date": "2017-02-05T01:50:00",
+		"eventId": "2017-00011945",
+		"providerId": 3192,
+		"latitude": 39.072166442871094,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63453674316406
+	}, {
+		"mode": 1,
+		"date": "2017-02-05T01:40:00",
+		"eventId": "2017-00011944",
+		"providerId": 3192,
+		"latitude": 39.10490036010742,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6109390258789
+	}, {
+		"mode": 1,
+		"date": "2017-02-04T11:25:00",
+		"eventId": "2017-00011907",
+		"providerId": 3192,
+		"latitude": 39.12696075439453,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7573471069336
+	}, {
+		"mode": 1,
+		"date": "2017-02-04T09:35:00",
+		"eventId": "2017-00011877",
+		"providerId": 3192,
+		"latitude": 39.09554672241211,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63792419433594
+	}, {
+		"mode": 1,
+		"date": "2017-02-04T05:15:00",
+		"eventId": "2017-00011808",
+		"providerId": 3192,
+		"latitude": 39.11980438232422,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.620849609375
+	}, {
+		"mode": 1,
+		"date": "2017-02-04T12:42:00",
+		"eventId": "2017-00007746",
+		"providerId": 1506,
+		"latitude": 39.106239318847656,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41413116455078
+	}, {
+		"mode": 1,
+		"date": "2017-02-03T02:16:00",
+		"eventId": "2017-00011396",
+		"providerId": 3192,
+		"latitude": 39.106876373291016,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.76542663574219
+	}, {
+		"mode": 1,
+		"date": "2017-02-03T12:41:00",
+		"eventId": "17-0387PD",
+		"providerId": 90,
+		"latitude": 38.98887252807617,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.46690368652344
+	}, {
+		"mode": 1,
+		"date": "2017-02-02T04:15:00",
+		"eventId": "2017-00011104",
+		"providerId": 3192,
+		"latitude": 39.11772918701172,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6707534790039
+	}, {
+		"mode": 1,
+		"date": "2017-02-02T04:10:00",
+		"eventId": "2017-00011106",
+		"providerId": 3192,
+		"latitude": 39.124267578125,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6496810913086
+	}, {
+		"mode": 1,
+		"date": "2017-02-02T02:40:00",
+		"eventId": "CN1700562",
+		"providerId": 61,
+		"latitude": 39.00648498535156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7319564819336
+	}, {
+		"mode": 1,
+		"date": "2017-02-02T03:55:00",
+		"eventId": "2017-00010952",
+		"providerId": 3192,
+		"latitude": 39.12204360961914,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6244125366211
+	}, {
+		"mode": 1,
+		"date": "2017-02-02T01:20:00",
+		"eventId": "2017-00007255",
+		"providerId": 1506,
+		"latitude": 39.08382034301758,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.4574966430664
+	}, {
+		"mode": 1,
+		"date": "2017-02-01T12:15:00",
+		"eventId": "2017-00007074",
+		"providerId": 1506,
+		"latitude": 39.10147476196289,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45419311523438
+	}, {
+		"mode": 1,
+		"date": "2017-02-01T08:56:00",
+		"eventId": "2017-00007032",
+		"providerId": 1506,
+		"latitude": 39.09584045410156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42170715332031
+	}, {
+		"mode": 1,
+		"date": "2017-01-31T03:48:00",
+		"eventId": "2017-00006884",
+		"providerId": 1506,
+		"latitude": 39.079261779785156,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.36639404296875
+	}, {
+		"mode": 1,
+		"date": "2017-01-31T01:30:00",
+		"eventId": "2017-00013680",
+		"providerId": 3192,
+		"latitude": 39.13866424560547,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65748596191406
+	}, {
+		"mode": 1,
+		"date": "2017-01-31T01:14:00",
+		"eventId": "2017-00010143",
+		"providerId": 3192,
+		"latitude": 39.136131286621094,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.66394805908203
+	}, {
+		"mode": 1,
+		"date": "2017-01-30T08:50:00",
+		"eventId": "2017-00009823",
+		"providerId": 3192,
+		"latitude": 39.064449310302734,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.66426086425781
+	}, {
+		"mode": 1,
+		"date": "2017-01-29T06:30:00",
+		"eventId": "2017-00006394",
+		"providerId": 1506,
+		"latitude": 39.10842514038086,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42131805419922
+	}, {
+		"mode": 1,
+		"date": "2017-01-29T06:09:00",
+		"eventId": "2017-00006393",
+		"providerId": 1506,
+		"latitude": 39.05268859863281,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.35567474365234
+	}, {
+		"mode": 1,
+		"date": "2017-01-28T11:00:00",
+		"eventId": "CN1700445",
+		"providerId": 61,
+		"latitude": 39.00564956665039,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.75952911376953
+	}, {
+		"mode": 1,
+		"date": "2017-01-28T10:00:00",
+		"eventId": "2017-00010749",
+		"providerId": 3192,
+		"latitude": 39.12077713012695,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63262939453125
+	}, {
+		"mode": 1,
+		"date": "2017-01-28T08:28:00",
+		"eventId": "2017-00006185",
+		"providerId": 1506,
+		"latitude": 39.08970642089844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.46371459960938
+	}, {
+		"mode": 1,
+		"date": "2017-01-28T07:01:00",
+		"eventId": "2017-00009328",
+		"providerId": 3192,
+		"latitude": 39.136688232421875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.66167449951172
+	}, {
+		"mode": 1,
+		"date": "2017-01-28T06:00:00",
+		"eventId": "2017-00006616",
+		"providerId": 1506,
+		"latitude": 39.08863830566406,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45716857910156
+	}, {
+		"mode": 1,
+		"date": "2017-01-28T01:19:00",
+		"eventId": "20173578",
+		"providerId": 504,
+		"latitude": 38.93173599243164,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.74099731445312
+	}, {
+		"mode": 1,
+		"date": "2017-01-28T12:20:00",
+		"eventId": "2017-00006090",
+		"providerId": 1506,
+		"latitude": 39.0610237121582,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.47315979003906
+	}, {
+		"mode": 1,
+		"date": "2017-01-28T04:09:00",
+		"eventId": "17-0323PD",
+		"providerId": 90,
+		"latitude": 38.98027801513672,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45892333984375
+	}, {
+		"mode": 1,
+		"date": "2017-01-28T01:56:00",
+		"eventId": "2017-00009123",
+		"providerId": 3192,
+		"latitude": 39.12820816040039,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65310668945312
+	}, {
+		"mode": 1,
+		"date": "2017-01-28T01:00:00",
+		"eventId": "2017-00009164",
+		"providerId": 3192,
+		"latitude": 39.12730407714844,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6451416015625
+	}, {
+		"mode": 1,
+		"date": "2017-01-27T11:30:00",
+		"eventId": "2017-00006104",
+		"providerId": 1506,
+		"latitude": 39.04890060424805,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.38725280761719
+	}, {
+		"mode": 1,
+		"date": "2017-01-27T10:00:00",
+		"eventId": "2017-00009065",
+		"providerId": 3192,
+		"latitude": 39.09819412231445,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6261215209961
+	}, {
+		"mode": 1,
+		"date": "2017-01-27T07:44:00",
+		"eventId": "2017-00005941",
+		"providerId": 1506,
+		"latitude": 39.0374755859375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43006134033203
+	}, {
+		"mode": 1,
+		"date": "2017-01-27T07:00:00",
+		"eventId": "2017-00009018",
+		"providerId": 3192,
+		"latitude": 39.05762481689453,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.61368560791016
+	}, {
+		"mode": 1,
+		"date": "2017-01-27T01:00:00",
+		"eventId": "2017-00008892",
+		"providerId": 3192,
+		"latitude": 39.06987380981445,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.60721588134766
+	}, {
+		"mode": 1,
+		"date": "2017-01-27T04:21:00",
+		"eventId": "2017-00005760",
+		"providerId": 1506,
+		"latitude": 39.133445739746094,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.33776092529297
+	}, {
+		"mode": 1,
+		"date": "2017-01-26T07:25:00",
+		"eventId": "2017-00008664",
+		"providerId": 3192,
+		"latitude": 39.08676528930664,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64317321777344
+	}, {
+		"mode": 1,
+		"date": "2017-01-26T05:38:00",
+		"eventId": "2017-00008619",
+		"providerId": 3192,
+		"latitude": 39.14106750488281,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6602554321289
+	}, {
+		"mode": 1,
+		"date": "2017-01-26T03:18:00",
+		"eventId": "2017-00005527",
+		"providerId": 1506,
+		"latitude": 39.080360412597656,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43970489501953
+	}, {
+		"mode": 1,
+		"date": "2017-01-26T01:10:00",
+		"eventId": "2017-00008384",
+		"providerId": 3192,
+		"latitude": 39.119693756103516,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.6283187866211
+	}, {
+		"mode": 1,
+		"date": "2017-01-25T10:36:00",
+		"eventId": "2017-00005506",
+		"providerId": 1506,
+		"latitude": 39.09165573120117,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43929290771484
+	}, {
+		"mode": 1,
+		"date": "2017-01-25T07:50:00",
+		"eventId": "2017-00005481",
+		"providerId": 1506,
+		"latitude": 39.080360412597656,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43970489501953
+	}, {
+		"mode": 1,
+		"date": "2017-01-25T06:00:00",
+		"eventId": "2017-00005514",
+		"providerId": 1506,
+		"latitude": 39.087989807128906,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41281127929688
+	}, {
+		"mode": 1,
+		"date": "2017-01-25T07:51:00",
+		"eventId": "2017-00005341",
+		"providerId": 1506,
+		"latitude": 39.073978424072266,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.46937561035156
+	}, {
+		"mode": 1,
+		"date": "2017-01-25T12:00:00",
+		"eventId": "CN1700388",
+		"providerId": 61,
+		"latitude": 39.02330780029297,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.72521209716797
+	}, {
+		"mode": 1,
+		"date": "2017-01-24T07:49:00",
+		"eventId": "2017-00005253",
+		"providerId": 1506,
+		"latitude": 39.038516998291016,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.43284606933594
+	}, {
+		"mode": 1,
+		"date": "2017-01-24T03:20:00",
+		"eventId": "CN1700368",
+		"providerId": 61,
+		"latitude": 39.01166534423828,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.73033905029297
+	}, {
+		"mode": 1,
+		"date": "2017-01-24T02:10:00",
+		"eventId": "2017-00005068",
+		"providerId": 1506,
+		"latitude": 39.10083770751953,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41240692138672
+	}, {
+		"mode": 1,
+		"date": "2017-01-24T02:08:00",
+		"eventId": "2017-00005078",
+		"providerId": 1506,
+		"latitude": 39.114410400390625,
+		"accuracy": "Intersection",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.42345428466797
+	}, {
+		"mode": 1,
+		"date": "2017-01-23T09:40:00",
+		"eventId": "2017-00007603",
+		"providerId": 3192,
+		"latitude": 39.11396789550781,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.7721176147461
+	}, {
+		"mode": 1,
+		"date": "2017-01-23T03:00:00",
+		"eventId": "2017-00008879",
+		"providerId": 3192,
+		"latitude": 39.10175704956055,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63523864746094
+	}, {
+		"mode": 1,
+		"date": "2017-01-23T02:01:00",
+		"eventId": "2017-00004808",
+		"providerId": 1506,
+		"latitude": 39.11550521850586,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.37737274169922
+	}, {
+		"mode": 1,
+		"date": "2017-01-22T01:55:00",
+		"eventId": "2017-00004725",
+		"providerId": 1506,
+		"latitude": 39.10757064819336,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.39210510253906
+	}, {
+		"mode": 1,
+		"date": "2017-01-22T05:00:00",
+		"eventId": "2017-00007081",
+		"providerId": 3192,
+		"latitude": 39.05657958984375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.61068725585938
+	}, {
+		"mode": 1,
+		"date": "2017-01-21T11:01:00",
+		"eventId": "2017-00004617",
+		"providerId": 1506,
+		"latitude": 39.082244873046875,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41797637939453
+	}, {
+		"mode": 1,
+		"date": "2017-01-21T08:15:00",
+		"eventId": "2017-00006946",
+		"providerId": 3192,
+		"latitude": 39.12561798095703,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.75424194335938
+	}, {
+		"mode": 1,
+		"date": "2017-01-21T07:00:00",
+		"eventId": "2017-00004929",
+		"providerId": 1506,
+		"latitude": 39.07284164428711,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.44495391845703
+	}, {
+		"mode": 1,
+		"date": "2017-01-21T06:45:00",
+		"eventId": "2017-00006928",
+		"providerId": 3192,
+		"latitude": 39.099143981933594,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63059997558594
+	}, {
+		"mode": 1,
+		"date": "2017-01-21T07:38:00",
+		"eventId": "2017-00006755",
+		"providerId": 3192,
+		"latitude": 39.14475631713867,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.66752624511719
+	}, {
+		"mode": 1,
+		"date": "2017-01-21T01:00:00",
+		"eventId": "2017-00006765",
+		"providerId": 3192,
+		"latitude": 39.10333251953125,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63675689697266
+	}, {
+		"mode": 1,
+		"date": "2017-01-20T04:05:00",
+		"eventId": "2017-00006529",
+		"providerId": 3192,
+		"latitude": 39.141693115234375,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64151000976562
+	}, {
+		"mode": 1,
+		"date": "2017-01-20T04:55:00",
+		"eventId": "2017-00006399",
+		"providerId": 3192,
+		"latitude": 39.12268829345703,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.61573028564453
+	}, {
+		"mode": 1,
+		"date": "2017-01-19T10:25:00",
+		"eventId": "20172463",
+		"providerId": 504,
+		"latitude": 38.983619689941406,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.70557403564453
+	}, {
+		"mode": 1,
+		"date": "2017-01-19T10:24:00",
+		"eventId": "2017-00006292",
+		"providerId": 3192,
+		"latitude": 39.13835144042969,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.65252685546875
+	}, {
+		"mode": 1,
+		"date": "2017-01-19T03:21:00",
+		"eventId": "2017-00003999",
+		"providerId": 1506,
+		"latitude": 39.07707214355469,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.37496185302734
+	}, {
+		"mode": 1,
+		"date": "2017-01-18T08:35:00",
+		"eventId": "2017-00005848",
+		"providerId": 3192,
+		"latitude": 39.12019729614258,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63541412353516
+	}, {
+		"mode": 1,
+		"date": "2017-01-18T12:35:00",
+		"eventId": "2017-00005677",
+		"providerId": 3192,
+		"latitude": 39.102291107177734,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.64183044433594
+	}, {
+		"mode": 1,
+		"date": "2017-01-18T12:00:00",
+		"eventId": "2017-00003721",
+		"providerId": 1506,
+		"latitude": 39.10329055786133,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.41487884521484
+	}, {
+		"mode": 1,
+		"date": "2017-01-18T12:01:00",
+		"eventId": "17-0238PD",
+		"providerId": 90,
+		"latitude": 39.018829345703125,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.45087432861328
+	}, {
+		"mode": 1,
+		"date": "2017-01-17T10:39:00",
+		"eventId": "2017-00005458",
+		"providerId": 3192,
+		"latitude": 39.0512580871582,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.61415100097656
+	}, {
+		"mode": 1,
+		"date": "2017-01-17T09:40:00",
+		"eventId": "2017-00006132",
+		"providerId": 3192,
+		"latitude": 39.09796905517578,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.62898254394531
+	}, {
+		"mode": 1,
+		"date": "2017-01-17T08:30:00",
+		"eventId": "2017-00005411",
+		"providerId": 3192,
+		"latitude": 39.120628356933594,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.76557922363281
+	}, {
+		"mode": 1,
+		"date": "2017-01-17T04:00:00",
+		"eventId": "2017-00005291",
+		"providerId": 3192,
+		"latitude": 39.12336730957031,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.63813018798828
+	}, {
+		"mode": 1,
+		"date": "2017-01-17T12:50:00",
+		"eventId": "2017-00005229",
+		"providerId": 3192,
+		"latitude": 39.10838317871094,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.75959014892578
+	}, {
+		"mode": 1,
+		"date": "2017-01-17T10:15:00",
+		"eventId": "CN1700250",
+		"providerId": 61,
+		"latitude": 39.0256233215332,
+		"accuracy": "Address",
+		"stamp": "0",
+		"classfication": {
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		},
+		"longitude": -94.72393035888672
+	}],
+	"dataView": {
+		"modes": [{
+			"id": 1
+		}],
+		"endDate": 1498104000000,
+		"centerLon": -94.716911,
+		"pageSize": null,
+		"zoom": 11,
+		"filters": [],
+		"viewAttributeVersion": 0,
+		"limitBy": 500,
+		"viewIteration": 59,
+		"analytics": [{
+			"width": 579,
+			"id": 3,
+			"position": 1,
+			"height": 232
+		}, {
+			"width": 579,
+			"id": 50,
+			"position": 2,
+			"height": 232
+		}, {
+			"width": 579,
+			"id": 59,
+			"position": 3,
+			"height": 232
+		}, {
+			"width": 579,
+			"id": 74,
+			"position": 4,
+			"height": 232
+		}],
+		"polygon": {
+			"valid": true,
+			"minLon": -94.98813597558592,
+			"maxLat": 39.20994160621199,
+			"centroid": {
+				"x": -94.5802685439453,
+				"y": 39.05985406401985,
+				"class": "com.bairinc.raids.model.dataview.polygon.RaidsPolygon$Point"
+			},
+			"minLat": 38.90976652182771,
+			"centerLon": -94.5802685439453,
+			"maxLon": -94.17240111230467,
+			"alias": "box",
+			"centerLat": 39.05985406401985,
+			"draw": false
+		},
+		"dataRelation": "Primary",
+		"pageStart": null,
+		"keywordOption": "notes",
+		"sortingClause": [{
+			"pos": 0,
+			"attribute": {
+				"mode": {
+					"classificationGroupName": null,
+					"display": "Event",
+					"relational": false,
+					"id": 1,
+					"customClassificationProcessor": false
+				},
+				"viewId": "view62",
+				"displayName": "Date",
+				"dataViewName": "Date",
+				"id": 62,
+				"hpccWildCardSupport": false,
+				"derived": false
+			},
+			"order": false
+		}, {
+			"pos": 1,
+			"attribute": {
+				"mode": {
+					"classificationGroupName": null,
+					"display": "Offenders",
+					"relational": false,
+					"id": 3,
+					"customClassificationProcessor": false
+				},
+				"viewId": "view509",
+				"displayName": "First Name",
+				"dataViewName": "First Name",
+				"id": 509,
+				"hpccWildCardSupport": false,
+				"derived": false
+			},
+			"order": false
+		}],
+		"dataViewName": "map",
+		"singleMode": null,
+		"centerLat": 39.112245,
+		"page": [{
+			"mode": {
+				"classificationGroupName": null,
+				"customClassificationProcessor": false,
+				"display": "Event",
+				"id": 1,
+				"relational": false
+			},
+			"page": 1,
+			"pageCount": 0,
+			"pageSize": 500,
+			"recordCount": 0
+		}, {
+			"mode": {
+				"classificationGroupName": null,
+				"customClassificationProcessor": false,
+				"display": "Offenders",
+				"id": 3,
+				"relational": false
+			},
+			"page": 0,
+			"pageCount": 0,
+			"pageSize": 1,
+			"recordCount": 0
+		}],
+		"user": {
+			"firstName": null,
+			"lastName": null,
+			"roles": [{
+				"productId": null,
+				"name": "user"
+			}],
+			"dataProviderId": -1,
+			"userID": -1,
+			"email": "public@communitycrimemap.com",
+			"singleSignOnEntityId": null
+		},
+		"filterIterator": {},
+		"startDate": 1483246800000,
+		"classfications": [{
+			"mode": {
+				"id": 1
+			},
+			"id": 8
+		}],
+		"primary": true
+	},
+	"totalRecordCount": 500
+}

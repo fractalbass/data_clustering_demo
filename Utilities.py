@@ -6,7 +6,7 @@
 #--------------------------------------------------------------
 import json
 from pprint import pprint
-
+import os
 
 class Utilities:
 
@@ -26,4 +26,19 @@ class Utilities:
         self.load_json_file(filename)
         return self.parse_lat_lon_data()
 
+    def write_file(self, data, filename):
+        try:
+            os.remove(filename)
+        except OSError:
+            pass
 
+        f1 = open(filename, 'a')
+
+        f1.write("lat,lon\n")
+        for p in data:
+            f1.write("{0},{1}\n".format(p[0],p[1]))
+
+    def convert_json_file(self, inputfile, outputfile):
+        self.load_json_file(inputfile)
+        output_data = self.parse_lat_lon_data()
+        self.write_file(output_data, outputfile)
