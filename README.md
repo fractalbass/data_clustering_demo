@@ -1,7 +1,7 @@
 Data Clustering Demo is a repository that includes code and data associated
  with the blog post:
 
-http://datascience.netlify.com/general/2017/06/21/data_science_5.html/
+http://datascience.netlify.com/general/2017/06/24/data_science_5.html/
 
 This post focuses on using data science tools to analyze the geographic locations of
 reported aggravated assaults in Kansas City, MO for January 1 - June 21, 2017.
